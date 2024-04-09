@@ -1,0 +1,14 @@
+C:\Users\jotha\source\repos\000_Fundamentos\024_Parallel\024_Parallel\obj\Debug\net8.0\024_Parallel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jotha\source\repos\000_Fundamentos\024_Parallel\024_Parallel\obj\Debug\net8.0\024_Parallel.AssemblyInfoInputs.cache
+C:\Users\jotha\source\repos\000_Fundamentos\024_Parallel\024_Parallel\obj\Debug\net8.0\024_Parallel.AssemblyInfo.cs
+C:\Users\jotha\source\repos\000_Fundamentos\024_Parallel\024_Parallel\obj\Debug\net8.0\024_Parallel.csproj.CoreCompileInputs.cache
+C:\Users\jotha\source\repos\000_Fundamentos\024_Parallel\024_Parallel\bin\Debug\net8.0\024_Parallel.exe
+C:\Users\jotha\source\repos\000_Fundamentos\024_Parallel\024_Parallel\bin\Debug\net8.0\024_Parallel.deps.json
+C:\Users\jotha\source\repos\000_Fundamentos\024_Parallel\024_Parallel\bin\Debug\net8.0\024_Parallel.runtimeconfig.json
+C:\Users\jotha\source\repos\000_Fundamentos\024_Parallel\024_Parallel\bin\Debug\net8.0\024_Parallel.dll
+C:\Users\jotha\source\repos\000_Fundamentos\024_Parallel\024_Parallel\bin\Debug\net8.0\024_Parallel.pdb
+C:\Users\jotha\source\repos\000_Fundamentos\024_Parallel\024_Parallel\obj\Debug\net8.0\024_Parallel.dll
+C:\Users\jotha\source\repos\000_Fundamentos\024_Parallel\024_Parallel\obj\Debug\net8.0\refint\024_Parallel.dll
+C:\Users\jotha\source\repos\000_Fundamentos\024_Parallel\024_Parallel\obj\Debug\net8.0\024_Parallel.pdb
+C:\Users\jotha\source\repos\000_Fundamentos\024_Parallel\024_Parallel\obj\Debug\net8.0\024_Parallel.genruntimeconfig.cache
+C:\Users\jotha\source\repos\000_Fundamentos\024_Parallel\024_Parallel\obj\Debug\net8.0\ref\024_Parallel.dll

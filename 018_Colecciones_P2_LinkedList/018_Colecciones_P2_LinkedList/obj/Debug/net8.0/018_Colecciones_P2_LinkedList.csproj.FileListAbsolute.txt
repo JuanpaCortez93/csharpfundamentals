@@ -1,0 +1,14 @@
+C:\Users\jotha\source\repos\000_Fundamentos\018_Colecciones_P2_LinkedList\018_Colecciones_P2_LinkedList\bin\Debug\net8.0\018_Colecciones_P2_LinkedList.exe
+C:\Users\jotha\source\repos\000_Fundamentos\018_Colecciones_P2_LinkedList\018_Colecciones_P2_LinkedList\bin\Debug\net8.0\018_Colecciones_P2_LinkedList.deps.json
+C:\Users\jotha\source\repos\000_Fundamentos\018_Colecciones_P2_LinkedList\018_Colecciones_P2_LinkedList\bin\Debug\net8.0\018_Colecciones_P2_LinkedList.runtimeconfig.json
+C:\Users\jotha\source\repos\000_Fundamentos\018_Colecciones_P2_LinkedList\018_Colecciones_P2_LinkedList\bin\Debug\net8.0\018_Colecciones_P2_LinkedList.dll
+C:\Users\jotha\source\repos\000_Fundamentos\018_Colecciones_P2_LinkedList\018_Colecciones_P2_LinkedList\bin\Debug\net8.0\018_Colecciones_P2_LinkedList.pdb
+C:\Users\jotha\source\repos\000_Fundamentos\018_Colecciones_P2_LinkedList\018_Colecciones_P2_LinkedList\obj\Debug\net8.0\018_Colecciones_P2_LinkedList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jotha\source\repos\000_Fundamentos\018_Colecciones_P2_LinkedList\018_Colecciones_P2_LinkedList\obj\Debug\net8.0\018_Colecciones_P2_LinkedList.AssemblyInfoInputs.cache
+C:\Users\jotha\source\repos\000_Fundamentos\018_Colecciones_P2_LinkedList\018_Colecciones_P2_LinkedList\obj\Debug\net8.0\018_Colecciones_P2_LinkedList.AssemblyInfo.cs
+C:\Users\jotha\source\repos\000_Fundamentos\018_Colecciones_P2_LinkedList\018_Colecciones_P2_LinkedList\obj\Debug\net8.0\018_Colecciones_P2_LinkedList.csproj.CoreCompileInputs.cache
+C:\Users\jotha\source\repos\000_Fundamentos\018_Colecciones_P2_LinkedList\018_Colecciones_P2_LinkedList\obj\Debug\net8.0\018_Colecciones_P2_LinkedList.dll
+C:\Users\jotha\source\repos\000_Fundamentos\018_Colecciones_P2_LinkedList\018_Colecciones_P2_LinkedList\obj\Debug\net8.0\refint\018_Colecciones_P2_LinkedList.dll
+C:\Users\jotha\source\repos\000_Fundamentos\018_Colecciones_P2_LinkedList\018_Colecciones_P2_LinkedList\obj\Debug\net8.0\018_Colecciones_P2_LinkedList.pdb
+C:\Users\jotha\source\repos\000_Fundamentos\018_Colecciones_P2_LinkedList\018_Colecciones_P2_LinkedList\obj\Debug\net8.0\018_Colecciones_P2_LinkedList.genruntimeconfig.cache
+C:\Users\jotha\source\repos\000_Fundamentos\018_Colecciones_P2_LinkedList\018_Colecciones_P2_LinkedList\obj\Debug\net8.0\ref\018_Colecciones_P2_LinkedList.dll

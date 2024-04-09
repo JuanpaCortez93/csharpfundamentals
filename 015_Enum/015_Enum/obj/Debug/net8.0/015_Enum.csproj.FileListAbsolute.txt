@@ -1,0 +1,14 @@
+C:\Users\jotha\source\repos\000_Fundamentos\015_Enum\015_Enum\bin\Debug\net8.0\015_Enum.exe
+C:\Users\jotha\source\repos\000_Fundamentos\015_Enum\015_Enum\bin\Debug\net8.0\015_Enum.deps.json
+C:\Users\jotha\source\repos\000_Fundamentos\015_Enum\015_Enum\bin\Debug\net8.0\015_Enum.runtimeconfig.json
+C:\Users\jotha\source\repos\000_Fundamentos\015_Enum\015_Enum\bin\Debug\net8.0\015_Enum.dll
+C:\Users\jotha\source\repos\000_Fundamentos\015_Enum\015_Enum\bin\Debug\net8.0\015_Enum.pdb
+C:\Users\jotha\source\repos\000_Fundamentos\015_Enum\015_Enum\obj\Debug\net8.0\015_Enum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jotha\source\repos\000_Fundamentos\015_Enum\015_Enum\obj\Debug\net8.0\015_Enum.AssemblyInfoInputs.cache
+C:\Users\jotha\source\repos\000_Fundamentos\015_Enum\015_Enum\obj\Debug\net8.0\015_Enum.AssemblyInfo.cs
+C:\Users\jotha\source\repos\000_Fundamentos\015_Enum\015_Enum\obj\Debug\net8.0\015_Enum.csproj.CoreCompileInputs.cache
+C:\Users\jotha\source\repos\000_Fundamentos\015_Enum\015_Enum\obj\Debug\net8.0\015_Enum.dll
+C:\Users\jotha\source\repos\000_Fundamentos\015_Enum\015_Enum\obj\Debug\net8.0\refint\015_Enum.dll
+C:\Users\jotha\source\repos\000_Fundamentos\015_Enum\015_Enum\obj\Debug\net8.0\015_Enum.pdb
+C:\Users\jotha\source\repos\000_Fundamentos\015_Enum\015_Enum\obj\Debug\net8.0\015_Enum.genruntimeconfig.cache
+C:\Users\jotha\source\repos\000_Fundamentos\015_Enum\015_Enum\obj\Debug\net8.0\ref\015_Enum.dll

@@ -1,0 +1,14 @@
+C:\Users\jotha\source\repos\000_Fundamentos\011_POO_Exercise\011_POO_Exercise\bin\Debug\net8.0\011_POO_Exercise.exe
+C:\Users\jotha\source\repos\000_Fundamentos\011_POO_Exercise\011_POO_Exercise\bin\Debug\net8.0\011_POO_Exercise.deps.json
+C:\Users\jotha\source\repos\000_Fundamentos\011_POO_Exercise\011_POO_Exercise\bin\Debug\net8.0\011_POO_Exercise.runtimeconfig.json
+C:\Users\jotha\source\repos\000_Fundamentos\011_POO_Exercise\011_POO_Exercise\bin\Debug\net8.0\011_POO_Exercise.dll
+C:\Users\jotha\source\repos\000_Fundamentos\011_POO_Exercise\011_POO_Exercise\bin\Debug\net8.0\011_POO_Exercise.pdb
+C:\Users\jotha\source\repos\000_Fundamentos\011_POO_Exercise\011_POO_Exercise\obj\Debug\net8.0\011_POO_Exercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jotha\source\repos\000_Fundamentos\011_POO_Exercise\011_POO_Exercise\obj\Debug\net8.0\011_POO_Exercise.AssemblyInfoInputs.cache
+C:\Users\jotha\source\repos\000_Fundamentos\011_POO_Exercise\011_POO_Exercise\obj\Debug\net8.0\011_POO_Exercise.AssemblyInfo.cs
+C:\Users\jotha\source\repos\000_Fundamentos\011_POO_Exercise\011_POO_Exercise\obj\Debug\net8.0\011_POO_Exercise.csproj.CoreCompileInputs.cache
+C:\Users\jotha\source\repos\000_Fundamentos\011_POO_Exercise\011_POO_Exercise\obj\Debug\net8.0\011_POO_Exercise.dll
+C:\Users\jotha\source\repos\000_Fundamentos\011_POO_Exercise\011_POO_Exercise\obj\Debug\net8.0\refint\011_POO_Exercise.dll
+C:\Users\jotha\source\repos\000_Fundamentos\011_POO_Exercise\011_POO_Exercise\obj\Debug\net8.0\011_POO_Exercise.pdb
+C:\Users\jotha\source\repos\000_Fundamentos\011_POO_Exercise\011_POO_Exercise\obj\Debug\net8.0\011_POO_Exercise.genruntimeconfig.cache
+C:\Users\jotha\source\repos\000_Fundamentos\011_POO_Exercise\011_POO_Exercise\obj\Debug\net8.0\ref\011_POO_Exercise.dll

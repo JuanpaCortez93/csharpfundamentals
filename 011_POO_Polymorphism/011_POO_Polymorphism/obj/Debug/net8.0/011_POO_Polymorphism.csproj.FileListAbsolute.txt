@@ -1,0 +1,14 @@
+C:\Users\jotha\source\repos\000_Fundamentos\011_POO_Polymorphism\011_POO_Polymorphism\bin\Debug\net8.0\011_POO_Polymorphism.exe
+C:\Users\jotha\source\repos\000_Fundamentos\011_POO_Polymorphism\011_POO_Polymorphism\bin\Debug\net8.0\011_POO_Polymorphism.deps.json
+C:\Users\jotha\source\repos\000_Fundamentos\011_POO_Polymorphism\011_POO_Polymorphism\bin\Debug\net8.0\011_POO_Polymorphism.runtimeconfig.json
+C:\Users\jotha\source\repos\000_Fundamentos\011_POO_Polymorphism\011_POO_Polymorphism\bin\Debug\net8.0\011_POO_Polymorphism.dll
+C:\Users\jotha\source\repos\000_Fundamentos\011_POO_Polymorphism\011_POO_Polymorphism\bin\Debug\net8.0\011_POO_Polymorphism.pdb
+C:\Users\jotha\source\repos\000_Fundamentos\011_POO_Polymorphism\011_POO_Polymorphism\obj\Debug\net8.0\011_POO_Polymorphism.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jotha\source\repos\000_Fundamentos\011_POO_Polymorphism\011_POO_Polymorphism\obj\Debug\net8.0\011_POO_Polymorphism.AssemblyInfoInputs.cache
+C:\Users\jotha\source\repos\000_Fundamentos\011_POO_Polymorphism\011_POO_Polymorphism\obj\Debug\net8.0\011_POO_Polymorphism.AssemblyInfo.cs
+C:\Users\jotha\source\repos\000_Fundamentos\011_POO_Polymorphism\011_POO_Polymorphism\obj\Debug\net8.0\011_POO_Polymorphism.csproj.CoreCompileInputs.cache
+C:\Users\jotha\source\repos\000_Fundamentos\011_POO_Polymorphism\011_POO_Polymorphism\obj\Debug\net8.0\011_POO_Polymorphism.dll
+C:\Users\jotha\source\repos\000_Fundamentos\011_POO_Polymorphism\011_POO_Polymorphism\obj\Debug\net8.0\refint\011_POO_Polymorphism.dll
+C:\Users\jotha\source\repos\000_Fundamentos\011_POO_Polymorphism\011_POO_Polymorphism\obj\Debug\net8.0\011_POO_Polymorphism.pdb
+C:\Users\jotha\source\repos\000_Fundamentos\011_POO_Polymorphism\011_POO_Polymorphism\obj\Debug\net8.0\011_POO_Polymorphism.genruntimeconfig.cache
+C:\Users\jotha\source\repos\000_Fundamentos\011_POO_Polymorphism\011_POO_Polymorphism\obj\Debug\net8.0\ref\011_POO_Polymorphism.dll

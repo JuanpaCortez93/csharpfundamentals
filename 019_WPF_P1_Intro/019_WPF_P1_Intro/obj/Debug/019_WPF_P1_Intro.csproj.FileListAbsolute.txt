@@ -1,0 +1,15 @@
+C:\Users\jotha\source\repos\000_Fundamentos\019_WPF_P1_Intro\019_WPF_P1_Intro\bin\Debug\019_WPF_P1_Intro.exe.config
+C:\Users\jotha\source\repos\000_Fundamentos\019_WPF_P1_Intro\019_WPF_P1_Intro\bin\Debug\019_WPF_P1_Intro.exe
+C:\Users\jotha\source\repos\000_Fundamentos\019_WPF_P1_Intro\019_WPF_P1_Intro\bin\Debug\019_WPF_P1_Intro.pdb
+C:\Users\jotha\source\repos\000_Fundamentos\019_WPF_P1_Intro\019_WPF_P1_Intro\obj\Debug\019_WPF_P1_Intro.csproj.AssemblyReference.cache
+C:\Users\jotha\source\repos\000_Fundamentos\019_WPF_P1_Intro\019_WPF_P1_Intro\obj\Debug\MainWindow.g.cs
+C:\Users\jotha\source\repos\000_Fundamentos\019_WPF_P1_Intro\019_WPF_P1_Intro\obj\Debug\App.g.cs
+C:\Users\jotha\source\repos\000_Fundamentos\019_WPF_P1_Intro\019_WPF_P1_Intro\obj\Debug\019_WPF_P1_Intro_MarkupCompile.cache
+C:\Users\jotha\source\repos\000_Fundamentos\019_WPF_P1_Intro\019_WPF_P1_Intro\obj\Debug\019_WPF_P1_Intro_MarkupCompile.lref
+C:\Users\jotha\source\repos\000_Fundamentos\019_WPF_P1_Intro\019_WPF_P1_Intro\obj\Debug\MainWindow.baml
+C:\Users\jotha\source\repos\000_Fundamentos\019_WPF_P1_Intro\019_WPF_P1_Intro\obj\Debug\019_WPF_P1_Intro.g.resources
+C:\Users\jotha\source\repos\000_Fundamentos\019_WPF_P1_Intro\019_WPF_P1_Intro\obj\Debug\_019_WPF_P1_Intro.Properties.Resources.resources
+C:\Users\jotha\source\repos\000_Fundamentos\019_WPF_P1_Intro\019_WPF_P1_Intro\obj\Debug\019_WPF_P1_Intro.csproj.GenerateResource.cache
+C:\Users\jotha\source\repos\000_Fundamentos\019_WPF_P1_Intro\019_WPF_P1_Intro\obj\Debug\019_WPF_P1_Intro.csproj.CoreCompileInputs.cache
+C:\Users\jotha\source\repos\000_Fundamentos\019_WPF_P1_Intro\019_WPF_P1_Intro\obj\Debug\019_WPF_P1_Intro.exe
+C:\Users\jotha\source\repos\000_Fundamentos\019_WPF_P1_Intro\019_WPF_P1_Intro\obj\Debug\019_WPF_P1_Intro.pdb

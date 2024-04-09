@@ -1,0 +1,14 @@
+C:\Users\jotha\source\repos\000_Fundamentos\018_Colecciones\018_Colecciones\bin\Debug\net8.0\018_Colecciones.exe
+C:\Users\jotha\source\repos\000_Fundamentos\018_Colecciones\018_Colecciones\bin\Debug\net8.0\018_Colecciones.deps.json
+C:\Users\jotha\source\repos\000_Fundamentos\018_Colecciones\018_Colecciones\bin\Debug\net8.0\018_Colecciones.runtimeconfig.json
+C:\Users\jotha\source\repos\000_Fundamentos\018_Colecciones\018_Colecciones\bin\Debug\net8.0\018_Colecciones.dll
+C:\Users\jotha\source\repos\000_Fundamentos\018_Colecciones\018_Colecciones\bin\Debug\net8.0\018_Colecciones.pdb
+C:\Users\jotha\source\repos\000_Fundamentos\018_Colecciones\018_Colecciones\obj\Debug\net8.0\018_Colecciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jotha\source\repos\000_Fundamentos\018_Colecciones\018_Colecciones\obj\Debug\net8.0\018_Colecciones.AssemblyInfoInputs.cache
+C:\Users\jotha\source\repos\000_Fundamentos\018_Colecciones\018_Colecciones\obj\Debug\net8.0\018_Colecciones.AssemblyInfo.cs
+C:\Users\jotha\source\repos\000_Fundamentos\018_Colecciones\018_Colecciones\obj\Debug\net8.0\018_Colecciones.csproj.CoreCompileInputs.cache
+C:\Users\jotha\source\repos\000_Fundamentos\018_Colecciones\018_Colecciones\obj\Debug\net8.0\018_Colecciones.dll
+C:\Users\jotha\source\repos\000_Fundamentos\018_Colecciones\018_Colecciones\obj\Debug\net8.0\refint\018_Colecciones.dll
+C:\Users\jotha\source\repos\000_Fundamentos\018_Colecciones\018_Colecciones\obj\Debug\net8.0\018_Colecciones.pdb
+C:\Users\jotha\source\repos\000_Fundamentos\018_Colecciones\018_Colecciones\obj\Debug\net8.0\018_Colecciones.genruntimeconfig.cache
+C:\Users\jotha\source\repos\000_Fundamentos\018_Colecciones\018_Colecciones\obj\Debug\net8.0\ref\018_Colecciones.dll

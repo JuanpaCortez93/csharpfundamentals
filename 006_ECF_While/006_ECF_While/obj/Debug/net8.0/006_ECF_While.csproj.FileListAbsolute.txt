@@ -1,0 +1,14 @@
+C:\Users\jotha\source\repos\000_Fundamentos\006_ECF_While\006_ECF_While\bin\Debug\net8.0\006_ECF_While.exe
+C:\Users\jotha\source\repos\000_Fundamentos\006_ECF_While\006_ECF_While\bin\Debug\net8.0\006_ECF_While.deps.json
+C:\Users\jotha\source\repos\000_Fundamentos\006_ECF_While\006_ECF_While\bin\Debug\net8.0\006_ECF_While.runtimeconfig.json
+C:\Users\jotha\source\repos\000_Fundamentos\006_ECF_While\006_ECF_While\bin\Debug\net8.0\006_ECF_While.dll
+C:\Users\jotha\source\repos\000_Fundamentos\006_ECF_While\006_ECF_While\bin\Debug\net8.0\006_ECF_While.pdb
+C:\Users\jotha\source\repos\000_Fundamentos\006_ECF_While\006_ECF_While\obj\Debug\net8.0\006_ECF_While.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jotha\source\repos\000_Fundamentos\006_ECF_While\006_ECF_While\obj\Debug\net8.0\006_ECF_While.AssemblyInfoInputs.cache
+C:\Users\jotha\source\repos\000_Fundamentos\006_ECF_While\006_ECF_While\obj\Debug\net8.0\006_ECF_While.AssemblyInfo.cs
+C:\Users\jotha\source\repos\000_Fundamentos\006_ECF_While\006_ECF_While\obj\Debug\net8.0\006_ECF_While.csproj.CoreCompileInputs.cache
+C:\Users\jotha\source\repos\000_Fundamentos\006_ECF_While\006_ECF_While\obj\Debug\net8.0\006_ECF_While.dll
+C:\Users\jotha\source\repos\000_Fundamentos\006_ECF_While\006_ECF_While\obj\Debug\net8.0\refint\006_ECF_While.dll
+C:\Users\jotha\source\repos\000_Fundamentos\006_ECF_While\006_ECF_While\obj\Debug\net8.0\006_ECF_While.pdb
+C:\Users\jotha\source\repos\000_Fundamentos\006_ECF_While\006_ECF_While\obj\Debug\net8.0\006_ECF_While.genruntimeconfig.cache
+C:\Users\jotha\source\repos\000_Fundamentos\006_ECF_While\006_ECF_While\obj\Debug\net8.0\ref\006_ECF_While.dll

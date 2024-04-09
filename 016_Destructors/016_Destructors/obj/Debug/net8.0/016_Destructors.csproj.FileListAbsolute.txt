@@ -1,0 +1,14 @@
+C:\Users\jotha\source\repos\000_Fundamentos\016_Destructors\016_Destructors\bin\Debug\net8.0\016_Destructors.exe
+C:\Users\jotha\source\repos\000_Fundamentos\016_Destructors\016_Destructors\bin\Debug\net8.0\016_Destructors.deps.json
+C:\Users\jotha\source\repos\000_Fundamentos\016_Destructors\016_Destructors\bin\Debug\net8.0\016_Destructors.runtimeconfig.json
+C:\Users\jotha\source\repos\000_Fundamentos\016_Destructors\016_Destructors\bin\Debug\net8.0\016_Destructors.dll
+C:\Users\jotha\source\repos\000_Fundamentos\016_Destructors\016_Destructors\bin\Debug\net8.0\016_Destructors.pdb
+C:\Users\jotha\source\repos\000_Fundamentos\016_Destructors\016_Destructors\obj\Debug\net8.0\016_Destructors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jotha\source\repos\000_Fundamentos\016_Destructors\016_Destructors\obj\Debug\net8.0\016_Destructors.AssemblyInfoInputs.cache
+C:\Users\jotha\source\repos\000_Fundamentos\016_Destructors\016_Destructors\obj\Debug\net8.0\016_Destructors.AssemblyInfo.cs
+C:\Users\jotha\source\repos\000_Fundamentos\016_Destructors\016_Destructors\obj\Debug\net8.0\016_Destructors.csproj.CoreCompileInputs.cache
+C:\Users\jotha\source\repos\000_Fundamentos\016_Destructors\016_Destructors\obj\Debug\net8.0\016_Destructors.dll
+C:\Users\jotha\source\repos\000_Fundamentos\016_Destructors\016_Destructors\obj\Debug\net8.0\refint\016_Destructors.dll
+C:\Users\jotha\source\repos\000_Fundamentos\016_Destructors\016_Destructors\obj\Debug\net8.0\016_Destructors.pdb
+C:\Users\jotha\source\repos\000_Fundamentos\016_Destructors\016_Destructors\obj\Debug\net8.0\016_Destructors.genruntimeconfig.cache
+C:\Users\jotha\source\repos\000_Fundamentos\016_Destructors\016_Destructors\obj\Debug\net8.0\ref\016_Destructors.dll

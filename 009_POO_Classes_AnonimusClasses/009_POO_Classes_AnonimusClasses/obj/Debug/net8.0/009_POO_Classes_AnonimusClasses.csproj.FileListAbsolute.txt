@@ -1,0 +1,14 @@
+C:\Users\jotha\source\repos\000_Fundamentos\009_POO_Classes_AnonimusClasses\009_POO_Classes_AnonimusClasses\bin\Debug\net8.0\009_POO_Classes_AnonimusClasses.exe
+C:\Users\jotha\source\repos\000_Fundamentos\009_POO_Classes_AnonimusClasses\009_POO_Classes_AnonimusClasses\bin\Debug\net8.0\009_POO_Classes_AnonimusClasses.deps.json
+C:\Users\jotha\source\repos\000_Fundamentos\009_POO_Classes_AnonimusClasses\009_POO_Classes_AnonimusClasses\bin\Debug\net8.0\009_POO_Classes_AnonimusClasses.runtimeconfig.json
+C:\Users\jotha\source\repos\000_Fundamentos\009_POO_Classes_AnonimusClasses\009_POO_Classes_AnonimusClasses\bin\Debug\net8.0\009_POO_Classes_AnonimusClasses.dll
+C:\Users\jotha\source\repos\000_Fundamentos\009_POO_Classes_AnonimusClasses\009_POO_Classes_AnonimusClasses\bin\Debug\net8.0\009_POO_Classes_AnonimusClasses.pdb
+C:\Users\jotha\source\repos\000_Fundamentos\009_POO_Classes_AnonimusClasses\009_POO_Classes_AnonimusClasses\obj\Debug\net8.0\009_POO_Classes_AnonimusClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jotha\source\repos\000_Fundamentos\009_POO_Classes_AnonimusClasses\009_POO_Classes_AnonimusClasses\obj\Debug\net8.0\009_POO_Classes_AnonimusClasses.AssemblyInfoInputs.cache
+C:\Users\jotha\source\repos\000_Fundamentos\009_POO_Classes_AnonimusClasses\009_POO_Classes_AnonimusClasses\obj\Debug\net8.0\009_POO_Classes_AnonimusClasses.AssemblyInfo.cs
+C:\Users\jotha\source\repos\000_Fundamentos\009_POO_Classes_AnonimusClasses\009_POO_Classes_AnonimusClasses\obj\Debug\net8.0\009_POO_Classes_AnonimusClasses.csproj.CoreCompileInputs.cache
+C:\Users\jotha\source\repos\000_Fundamentos\009_POO_Classes_AnonimusClasses\009_POO_Classes_AnonimusClasses\obj\Debug\net8.0\009_POO_Classes_AnonimusClasses.dll
+C:\Users\jotha\source\repos\000_Fundamentos\009_POO_Classes_AnonimusClasses\009_POO_Classes_AnonimusClasses\obj\Debug\net8.0\refint\009_POO_Classes_AnonimusClasses.dll
+C:\Users\jotha\source\repos\000_Fundamentos\009_POO_Classes_AnonimusClasses\009_POO_Classes_AnonimusClasses\obj\Debug\net8.0\009_POO_Classes_AnonimusClasses.pdb
+C:\Users\jotha\source\repos\000_Fundamentos\009_POO_Classes_AnonimusClasses\009_POO_Classes_AnonimusClasses\obj\Debug\net8.0\009_POO_Classes_AnonimusClasses.genruntimeconfig.cache
+C:\Users\jotha\source\repos\000_Fundamentos\009_POO_Classes_AnonimusClasses\009_POO_Classes_AnonimusClasses\obj\Debug\net8.0\ref\009_POO_Classes_AnonimusClasses.dll

@@ -1,0 +1,14 @@
+C:\Users\jotha\source\repos\000_Fundamentos\023_Task\023_Task\bin\Debug\net8.0\023_Task.exe
+C:\Users\jotha\source\repos\000_Fundamentos\023_Task\023_Task\bin\Debug\net8.0\023_Task.deps.json
+C:\Users\jotha\source\repos\000_Fundamentos\023_Task\023_Task\bin\Debug\net8.0\023_Task.runtimeconfig.json
+C:\Users\jotha\source\repos\000_Fundamentos\023_Task\023_Task\bin\Debug\net8.0\023_Task.dll
+C:\Users\jotha\source\repos\000_Fundamentos\023_Task\023_Task\bin\Debug\net8.0\023_Task.pdb
+C:\Users\jotha\source\repos\000_Fundamentos\023_Task\023_Task\obj\Debug\net8.0\023_Task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jotha\source\repos\000_Fundamentos\023_Task\023_Task\obj\Debug\net8.0\023_Task.AssemblyInfoInputs.cache
+C:\Users\jotha\source\repos\000_Fundamentos\023_Task\023_Task\obj\Debug\net8.0\023_Task.AssemblyInfo.cs
+C:\Users\jotha\source\repos\000_Fundamentos\023_Task\023_Task\obj\Debug\net8.0\023_Task.csproj.CoreCompileInputs.cache
+C:\Users\jotha\source\repos\000_Fundamentos\023_Task\023_Task\obj\Debug\net8.0\023_Task.dll
+C:\Users\jotha\source\repos\000_Fundamentos\023_Task\023_Task\obj\Debug\net8.0\refint\023_Task.dll
+C:\Users\jotha\source\repos\000_Fundamentos\023_Task\023_Task\obj\Debug\net8.0\023_Task.pdb
+C:\Users\jotha\source\repos\000_Fundamentos\023_Task\023_Task\obj\Debug\net8.0\023_Task.genruntimeconfig.cache
+C:\Users\jotha\source\repos\000_Fundamentos\023_Task\023_Task\obj\Debug\net8.0\ref\023_Task.dll

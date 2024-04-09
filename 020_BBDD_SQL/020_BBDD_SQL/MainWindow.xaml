@@ -1,0 +1,116 @@
+﻿<Window x:Class="_020_BBDD_SQL.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:_020_BBDD_SQL"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="50"></RowDefinition>
+            <RowDefinition Height="*"></RowDefinition>
+            <RowDefinition Height="*"></RowDefinition>
+        </Grid.RowDefinitions>
+
+        <Grid Grid.Row="0">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"></ColumnDefinition>
+                <ColumnDefinition Width="*"></ColumnDefinition>
+                <ColumnDefinition Width="*"></ColumnDefinition>
+            </Grid.ColumnDefinitions>
+
+            <Label Grid.Column="0" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="20" FontWeight="SemiBold">Clientes</Label>
+            <Label Grid.Column="1" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="20" FontWeight="SemiBold">Pedidos</Label>
+            <Button Grid.Column="2" FontSize="18" FontWeight="SemiBold" Click="Button_Click">Eliminar este pedido</Button>
+
+        </Grid>
+
+        <Grid Grid.Row="1">
+
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"></ColumnDefinition>
+                <ColumnDefinition Width="*"></ColumnDefinition>
+                <ColumnDefinition Width="*"></ColumnDefinition>
+            </Grid.ColumnDefinitions>
+
+            <ListBox Name="clientList" Grid.Column="0" d:ItemsSource="{d:SampleData ItemCount=5}" HorizontalAlignment="Stretch" MouseDoubleClick="clientList_MouseDoubleClick"/>
+            <ListBox Name="deliverList" Grid.Column="1" d:ItemsSource="{d:SampleData ItemCount=5}" HorizontalAlignment="Stretch"/>
+            <ListBox Name="allDeliveriesList" Grid.Column="2" d:ItemsSource="{d:SampleData ItemCount=5}" HorizontalAlignment="Stretch"/>
+
+        </Grid>
+
+        <Grid Grid.Row="2">
+
+            <Grid.RowDefinitions>
+                <RowDefinition Height="*"></RowDefinition>
+                <RowDefinition Height="*"></RowDefinition>
+                <RowDefinition Height="*"></RowDefinition>
+                <RowDefinition Height="*"></RowDefinition>
+                <RowDefinition Height="*"></RowDefinition>
+            </Grid.RowDefinitions>
+
+            <Grid Grid.Row="0">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="200"></ColumnDefinition>
+                    <ColumnDefinition Width="*"></ColumnDefinition>
+                </Grid.ColumnDefinitions>
+
+                <Label Grid.Column="0" FontSize="18" FontWeight="SemiBold" HorizontalAlignment="Center" VerticalAlignment="Center">Client Name</Label>
+                <TextBox Name="clientBox" Grid.Column="1" FontSize="18" FontWeight="SemiBold"></TextBox>
+
+            </Grid>
+
+            <Grid Grid.Row="1">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="200"></ColumnDefinition>
+                    <ColumnDefinition Width="*"></ColumnDefinition>
+                </Grid.ColumnDefinitions>
+
+                <Label FontSize="18" FontWeight="SemiBold" HorizontalAlignment="Center" VerticalAlignment="Bottom" Margin="0,0,0,7">Address</Label>
+                <TextBox Name="addressBox" Grid.Column="1" FontSize="18" FontWeight="SemiBold"></TextBox>
+
+            </Grid>
+
+            <Grid Grid.Row="2">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="200"></ColumnDefinition>
+                    <ColumnDefinition Width="*"></ColumnDefinition>
+                </Grid.ColumnDefinitions>
+
+                <Label Grid.Column="0" FontSize="18" FontWeight="SemiBold" HorizontalAlignment="Center" VerticalAlignment="Center">City</Label>
+                <TextBox Name="cityBox" Grid.Column="1" FontSize="18" FontWeight="SemiBold"></TextBox>
+
+            </Grid>
+
+            <Grid Grid.Row="3">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="200"></ColumnDefinition>
+                    <ColumnDefinition Width="*"></ColumnDefinition>
+                </Grid.ColumnDefinitions>
+
+                <Label Grid.Column="0" FontSize="18" FontWeight="SemiBold" HorizontalAlignment="Center" VerticalAlignment="Center">Telephone</Label>
+                <TextBox Name="telephoneBox" Grid.Column="1" FontSize="18" FontWeight="SemiBold"></TextBox>
+
+            </Grid>
+
+            <Grid Grid.Row="4">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*"></ColumnDefinition>
+                    <ColumnDefinition Width="*"></ColumnDefinition>
+                    <ColumnDefinition Width="*"></ColumnDefinition>
+                </Grid.ColumnDefinitions>
+
+                <Button Grid.Column="0" FontSize="18" FontWeight="SemiBold" Click="Button_Click_2">Borrar Ciente</Button>
+                <Button Grid.Column="1" FontSize="18" FontWeight="SemiBold" Click="Button_Click_1">Insertar Cliente</Button>
+                <Button Grid.Column="2" FontSize="18" FontWeight="SemiBold" Click="Button_Click_3">Editar</Button>
+            </Grid>
+
+        </Grid>
+
+
+
+
+    </Grid>
+</Window>

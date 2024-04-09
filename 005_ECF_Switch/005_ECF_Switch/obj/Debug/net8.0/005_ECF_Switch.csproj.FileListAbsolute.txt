@@ -1,0 +1,14 @@
+C:\Users\jotha\source\repos\000_Fundamentos\005_ECF_Switch\005_ECF_Switch\bin\Debug\net8.0\005_ECF_Switch.exe
+C:\Users\jotha\source\repos\000_Fundamentos\005_ECF_Switch\005_ECF_Switch\bin\Debug\net8.0\005_ECF_Switch.deps.json
+C:\Users\jotha\source\repos\000_Fundamentos\005_ECF_Switch\005_ECF_Switch\bin\Debug\net8.0\005_ECF_Switch.runtimeconfig.json
+C:\Users\jotha\source\repos\000_Fundamentos\005_ECF_Switch\005_ECF_Switch\bin\Debug\net8.0\005_ECF_Switch.dll
+C:\Users\jotha\source\repos\000_Fundamentos\005_ECF_Switch\005_ECF_Switch\bin\Debug\net8.0\005_ECF_Switch.pdb
+C:\Users\jotha\source\repos\000_Fundamentos\005_ECF_Switch\005_ECF_Switch\obj\Debug\net8.0\005_ECF_Switch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jotha\source\repos\000_Fundamentos\005_ECF_Switch\005_ECF_Switch\obj\Debug\net8.0\005_ECF_Switch.AssemblyInfoInputs.cache
+C:\Users\jotha\source\repos\000_Fundamentos\005_ECF_Switch\005_ECF_Switch\obj\Debug\net8.0\005_ECF_Switch.AssemblyInfo.cs
+C:\Users\jotha\source\repos\000_Fundamentos\005_ECF_Switch\005_ECF_Switch\obj\Debug\net8.0\005_ECF_Switch.csproj.CoreCompileInputs.cache
+C:\Users\jotha\source\repos\000_Fundamentos\005_ECF_Switch\005_ECF_Switch\obj\Debug\net8.0\005_ECF_Switch.dll
+C:\Users\jotha\source\repos\000_Fundamentos\005_ECF_Switch\005_ECF_Switch\obj\Debug\net8.0\refint\005_ECF_Switch.dll
+C:\Users\jotha\source\repos\000_Fundamentos\005_ECF_Switch\005_ECF_Switch\obj\Debug\net8.0\005_ECF_Switch.pdb
+C:\Users\jotha\source\repos\000_Fundamentos\005_ECF_Switch\005_ECF_Switch\obj\Debug\net8.0\005_ECF_Switch.genruntimeconfig.cache
+C:\Users\jotha\source\repos\000_Fundamentos\005_ECF_Switch\005_ECF_Switch\obj\Debug\net8.0\ref\005_ECF_Switch.dll

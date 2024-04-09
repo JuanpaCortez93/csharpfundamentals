@@ -1,0 +1,14 @@
+C:\Users\jotha\source\repos\000_Fundamentos\018_Colecciones_P3_Stack\018_Colecciones_P3_Stack\bin\Debug\net8.0\018_Colecciones_P3_Stack.exe
+C:\Users\jotha\source\repos\000_Fundamentos\018_Colecciones_P3_Stack\018_Colecciones_P3_Stack\bin\Debug\net8.0\018_Colecciones_P3_Stack.deps.json
+C:\Users\jotha\source\repos\000_Fundamentos\018_Colecciones_P3_Stack\018_Colecciones_P3_Stack\bin\Debug\net8.0\018_Colecciones_P3_Stack.runtimeconfig.json
+C:\Users\jotha\source\repos\000_Fundamentos\018_Colecciones_P3_Stack\018_Colecciones_P3_Stack\bin\Debug\net8.0\018_Colecciones_P3_Stack.dll
+C:\Users\jotha\source\repos\000_Fundamentos\018_Colecciones_P3_Stack\018_Colecciones_P3_Stack\bin\Debug\net8.0\018_Colecciones_P3_Stack.pdb
+C:\Users\jotha\source\repos\000_Fundamentos\018_Colecciones_P3_Stack\018_Colecciones_P3_Stack\obj\Debug\net8.0\018_Colecciones_P3_Stack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jotha\source\repos\000_Fundamentos\018_Colecciones_P3_Stack\018_Colecciones_P3_Stack\obj\Debug\net8.0\018_Colecciones_P3_Stack.AssemblyInfoInputs.cache
+C:\Users\jotha\source\repos\000_Fundamentos\018_Colecciones_P3_Stack\018_Colecciones_P3_Stack\obj\Debug\net8.0\018_Colecciones_P3_Stack.AssemblyInfo.cs
+C:\Users\jotha\source\repos\000_Fundamentos\018_Colecciones_P3_Stack\018_Colecciones_P3_Stack\obj\Debug\net8.0\018_Colecciones_P3_Stack.csproj.CoreCompileInputs.cache
+C:\Users\jotha\source\repos\000_Fundamentos\018_Colecciones_P3_Stack\018_Colecciones_P3_Stack\obj\Debug\net8.0\018_Colecciones_P3_Stack.dll
+C:\Users\jotha\source\repos\000_Fundamentos\018_Colecciones_P3_Stack\018_Colecciones_P3_Stack\obj\Debug\net8.0\refint\018_Colecciones_P3_Stack.dll
+C:\Users\jotha\source\repos\000_Fundamentos\018_Colecciones_P3_Stack\018_Colecciones_P3_Stack\obj\Debug\net8.0\018_Colecciones_P3_Stack.pdb
+C:\Users\jotha\source\repos\000_Fundamentos\018_Colecciones_P3_Stack\018_Colecciones_P3_Stack\obj\Debug\net8.0\018_Colecciones_P3_Stack.genruntimeconfig.cache
+C:\Users\jotha\source\repos\000_Fundamentos\018_Colecciones_P3_Stack\018_Colecciones_P3_Stack\obj\Debug\net8.0\ref\018_Colecciones_P3_Stack.dll

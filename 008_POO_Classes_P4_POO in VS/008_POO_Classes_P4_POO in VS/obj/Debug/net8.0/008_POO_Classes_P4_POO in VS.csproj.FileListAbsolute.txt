@@ -1,0 +1,14 @@
+C:\Users\jotha\source\repos\000_Fundamentos\008_POO_Classes_P4_POO in VS\008_POO_Classes_P4_POO in VS\bin\Debug\net8.0\008_POO_Classes_P4_POO in VS.exe
+C:\Users\jotha\source\repos\000_Fundamentos\008_POO_Classes_P4_POO in VS\008_POO_Classes_P4_POO in VS\bin\Debug\net8.0\008_POO_Classes_P4_POO in VS.deps.json
+C:\Users\jotha\source\repos\000_Fundamentos\008_POO_Classes_P4_POO in VS\008_POO_Classes_P4_POO in VS\bin\Debug\net8.0\008_POO_Classes_P4_POO in VS.runtimeconfig.json
+C:\Users\jotha\source\repos\000_Fundamentos\008_POO_Classes_P4_POO in VS\008_POO_Classes_P4_POO in VS\bin\Debug\net8.0\008_POO_Classes_P4_POO in VS.dll
+C:\Users\jotha\source\repos\000_Fundamentos\008_POO_Classes_P4_POO in VS\008_POO_Classes_P4_POO in VS\bin\Debug\net8.0\008_POO_Classes_P4_POO in VS.pdb
+C:\Users\jotha\source\repos\000_Fundamentos\008_POO_Classes_P4_POO in VS\008_POO_Classes_P4_POO in VS\obj\Debug\net8.0\008_POO_Classes_P4_POO in VS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jotha\source\repos\000_Fundamentos\008_POO_Classes_P4_POO in VS\008_POO_Classes_P4_POO in VS\obj\Debug\net8.0\008_POO_Classes_P4_POO in VS.AssemblyInfoInputs.cache
+C:\Users\jotha\source\repos\000_Fundamentos\008_POO_Classes_P4_POO in VS\008_POO_Classes_P4_POO in VS\obj\Debug\net8.0\008_POO_Classes_P4_POO in VS.AssemblyInfo.cs
+C:\Users\jotha\source\repos\000_Fundamentos\008_POO_Classes_P4_POO in VS\008_POO_Classes_P4_POO in VS\obj\Debug\net8.0\008_POO_Classes_P4_POO in VS.csproj.CoreCompileInputs.cache
+C:\Users\jotha\source\repos\000_Fundamentos\008_POO_Classes_P4_POO in VS\008_POO_Classes_P4_POO in VS\obj\Debug\net8.0\008_POO_Classes_P4_POO in VS.dll
+C:\Users\jotha\source\repos\000_Fundamentos\008_POO_Classes_P4_POO in VS\008_POO_Classes_P4_POO in VS\obj\Debug\net8.0\refint\008_POO_Classes_P4_POO in VS.dll
+C:\Users\jotha\source\repos\000_Fundamentos\008_POO_Classes_P4_POO in VS\008_POO_Classes_P4_POO in VS\obj\Debug\net8.0\008_POO_Classes_P4_POO in VS.pdb
+C:\Users\jotha\source\repos\000_Fundamentos\008_POO_Classes_P4_POO in VS\008_POO_Classes_P4_POO in VS\obj\Debug\net8.0\008_POO_Classes_P4_POO in VS.genruntimeconfig.cache
+C:\Users\jotha\source\repos\000_Fundamentos\008_POO_Classes_P4_POO in VS\008_POO_Classes_P4_POO in VS\obj\Debug\net8.0\ref\008_POO_Classes_P4_POO in VS.dll

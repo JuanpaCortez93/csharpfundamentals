@@ -1,0 +1,14 @@
+C:\Users\jotha\source\repos\000_Fundamentos\004_ECF_If\004_ECF_If\bin\Debug\net8.0\004_ECF_If.exe
+C:\Users\jotha\source\repos\000_Fundamentos\004_ECF_If\004_ECF_If\bin\Debug\net8.0\004_ECF_If.deps.json
+C:\Users\jotha\source\repos\000_Fundamentos\004_ECF_If\004_ECF_If\bin\Debug\net8.0\004_ECF_If.runtimeconfig.json
+C:\Users\jotha\source\repos\000_Fundamentos\004_ECF_If\004_ECF_If\bin\Debug\net8.0\004_ECF_If.dll
+C:\Users\jotha\source\repos\000_Fundamentos\004_ECF_If\004_ECF_If\bin\Debug\net8.0\004_ECF_If.pdb
+C:\Users\jotha\source\repos\000_Fundamentos\004_ECF_If\004_ECF_If\obj\Debug\net8.0\004_ECF_If.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jotha\source\repos\000_Fundamentos\004_ECF_If\004_ECF_If\obj\Debug\net8.0\004_ECF_If.AssemblyInfoInputs.cache
+C:\Users\jotha\source\repos\000_Fundamentos\004_ECF_If\004_ECF_If\obj\Debug\net8.0\004_ECF_If.AssemblyInfo.cs
+C:\Users\jotha\source\repos\000_Fundamentos\004_ECF_If\004_ECF_If\obj\Debug\net8.0\004_ECF_If.csproj.CoreCompileInputs.cache
+C:\Users\jotha\source\repos\000_Fundamentos\004_ECF_If\004_ECF_If\obj\Debug\net8.0\004_ECF_If.dll
+C:\Users\jotha\source\repos\000_Fundamentos\004_ECF_If\004_ECF_If\obj\Debug\net8.0\refint\004_ECF_If.dll
+C:\Users\jotha\source\repos\000_Fundamentos\004_ECF_If\004_ECF_If\obj\Debug\net8.0\004_ECF_If.pdb
+C:\Users\jotha\source\repos\000_Fundamentos\004_ECF_If\004_ECF_If\obj\Debug\net8.0\004_ECF_If.genruntimeconfig.cache
+C:\Users\jotha\source\repos\000_Fundamentos\004_ECF_If\004_ECF_If\obj\Debug\net8.0\ref\004_ECF_If.dll

@@ -1,0 +1,14 @@
+C:\Users\jotha\source\repos\000_Fundamentos\018_Colecciones_P4_Dictionaries\018_Colecciones_P4_Dictionaries\bin\Debug\net8.0\018_Colecciones_P4_Dictionaries.exe
+C:\Users\jotha\source\repos\000_Fundamentos\018_Colecciones_P4_Dictionaries\018_Colecciones_P4_Dictionaries\bin\Debug\net8.0\018_Colecciones_P4_Dictionaries.deps.json
+C:\Users\jotha\source\repos\000_Fundamentos\018_Colecciones_P4_Dictionaries\018_Colecciones_P4_Dictionaries\bin\Debug\net8.0\018_Colecciones_P4_Dictionaries.runtimeconfig.json
+C:\Users\jotha\source\repos\000_Fundamentos\018_Colecciones_P4_Dictionaries\018_Colecciones_P4_Dictionaries\bin\Debug\net8.0\018_Colecciones_P4_Dictionaries.dll
+C:\Users\jotha\source\repos\000_Fundamentos\018_Colecciones_P4_Dictionaries\018_Colecciones_P4_Dictionaries\bin\Debug\net8.0\018_Colecciones_P4_Dictionaries.pdb
+C:\Users\jotha\source\repos\000_Fundamentos\018_Colecciones_P4_Dictionaries\018_Colecciones_P4_Dictionaries\obj\Debug\net8.0\018_Colecciones_P4_Dictionaries.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jotha\source\repos\000_Fundamentos\018_Colecciones_P4_Dictionaries\018_Colecciones_P4_Dictionaries\obj\Debug\net8.0\018_Colecciones_P4_Dictionaries.AssemblyInfoInputs.cache
+C:\Users\jotha\source\repos\000_Fundamentos\018_Colecciones_P4_Dictionaries\018_Colecciones_P4_Dictionaries\obj\Debug\net8.0\018_Colecciones_P4_Dictionaries.AssemblyInfo.cs
+C:\Users\jotha\source\repos\000_Fundamentos\018_Colecciones_P4_Dictionaries\018_Colecciones_P4_Dictionaries\obj\Debug\net8.0\018_Colecciones_P4_Dictionaries.csproj.CoreCompileInputs.cache
+C:\Users\jotha\source\repos\000_Fundamentos\018_Colecciones_P4_Dictionaries\018_Colecciones_P4_Dictionaries\obj\Debug\net8.0\018_Colecciones_P4_Dictionaries.dll
+C:\Users\jotha\source\repos\000_Fundamentos\018_Colecciones_P4_Dictionaries\018_Colecciones_P4_Dictionaries\obj\Debug\net8.0\refint\018_Colecciones_P4_Dictionaries.dll
+C:\Users\jotha\source\repos\000_Fundamentos\018_Colecciones_P4_Dictionaries\018_Colecciones_P4_Dictionaries\obj\Debug\net8.0\018_Colecciones_P4_Dictionaries.pdb
+C:\Users\jotha\source\repos\000_Fundamentos\018_Colecciones_P4_Dictionaries\018_Colecciones_P4_Dictionaries\obj\Debug\net8.0\018_Colecciones_P4_Dictionaries.genruntimeconfig.cache
+C:\Users\jotha\source\repos\000_Fundamentos\018_Colecciones_P4_Dictionaries\018_Colecciones_P4_Dictionaries\obj\Debug\net8.0\ref\018_Colecciones_P4_Dictionaries.dll

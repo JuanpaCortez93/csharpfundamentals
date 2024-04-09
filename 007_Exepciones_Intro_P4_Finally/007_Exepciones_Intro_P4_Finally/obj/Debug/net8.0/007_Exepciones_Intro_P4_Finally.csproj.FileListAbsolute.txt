@@ -1,0 +1,14 @@
+C:\Users\jotha\source\repos\000_Fundamentos\007_Exepciones_Intro_P4_Finally\007_Exepciones_Intro_P4_Finally\bin\Debug\net8.0\007_Exepciones_Intro_P4_Finally.exe
+C:\Users\jotha\source\repos\000_Fundamentos\007_Exepciones_Intro_P4_Finally\007_Exepciones_Intro_P4_Finally\bin\Debug\net8.0\007_Exepciones_Intro_P4_Finally.deps.json
+C:\Users\jotha\source\repos\000_Fundamentos\007_Exepciones_Intro_P4_Finally\007_Exepciones_Intro_P4_Finally\bin\Debug\net8.0\007_Exepciones_Intro_P4_Finally.runtimeconfig.json
+C:\Users\jotha\source\repos\000_Fundamentos\007_Exepciones_Intro_P4_Finally\007_Exepciones_Intro_P4_Finally\bin\Debug\net8.0\007_Exepciones_Intro_P4_Finally.dll
+C:\Users\jotha\source\repos\000_Fundamentos\007_Exepciones_Intro_P4_Finally\007_Exepciones_Intro_P4_Finally\bin\Debug\net8.0\007_Exepciones_Intro_P4_Finally.pdb
+C:\Users\jotha\source\repos\000_Fundamentos\007_Exepciones_Intro_P4_Finally\007_Exepciones_Intro_P4_Finally\obj\Debug\net8.0\007_Exepciones_Intro_P4_Finally.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jotha\source\repos\000_Fundamentos\007_Exepciones_Intro_P4_Finally\007_Exepciones_Intro_P4_Finally\obj\Debug\net8.0\007_Exepciones_Intro_P4_Finally.AssemblyInfoInputs.cache
+C:\Users\jotha\source\repos\000_Fundamentos\007_Exepciones_Intro_P4_Finally\007_Exepciones_Intro_P4_Finally\obj\Debug\net8.0\007_Exepciones_Intro_P4_Finally.AssemblyInfo.cs
+C:\Users\jotha\source\repos\000_Fundamentos\007_Exepciones_Intro_P4_Finally\007_Exepciones_Intro_P4_Finally\obj\Debug\net8.0\007_Exepciones_Intro_P4_Finally.csproj.CoreCompileInputs.cache
+C:\Users\jotha\source\repos\000_Fundamentos\007_Exepciones_Intro_P4_Finally\007_Exepciones_Intro_P4_Finally\obj\Debug\net8.0\007_Exepciones_Intro_P4_Finally.dll
+C:\Users\jotha\source\repos\000_Fundamentos\007_Exepciones_Intro_P4_Finally\007_Exepciones_Intro_P4_Finally\obj\Debug\net8.0\refint\007_Exepciones_Intro_P4_Finally.dll
+C:\Users\jotha\source\repos\000_Fundamentos\007_Exepciones_Intro_P4_Finally\007_Exepciones_Intro_P4_Finally\obj\Debug\net8.0\007_Exepciones_Intro_P4_Finally.pdb
+C:\Users\jotha\source\repos\000_Fundamentos\007_Exepciones_Intro_P4_Finally\007_Exepciones_Intro_P4_Finally\obj\Debug\net8.0\007_Exepciones_Intro_P4_Finally.genruntimeconfig.cache
+C:\Users\jotha\source\repos\000_Fundamentos\007_Exepciones_Intro_P4_Finally\007_Exepciones_Intro_P4_Finally\obj\Debug\net8.0\ref\007_Exepciones_Intro_P4_Finally.dll

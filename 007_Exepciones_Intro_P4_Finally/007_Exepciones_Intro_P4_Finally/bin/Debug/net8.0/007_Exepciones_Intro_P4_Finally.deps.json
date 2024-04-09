@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "007_Exepciones_Intro_P4_Finally/1.0.0": {
+        "runtime": {
+          "007_Exepciones_Intro_P4_Finally.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "007_Exepciones_Intro_P4_Finally/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

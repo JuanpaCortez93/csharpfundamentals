@@ -1,0 +1,14 @@
+C:\Users\jotha\source\repos\000_Fundamentos\007_Exepciones_Intro\007_Exepciones_Intro\bin\Debug\net8.0\007_Exepciones_Intro.exe
+C:\Users\jotha\source\repos\000_Fundamentos\007_Exepciones_Intro\007_Exepciones_Intro\bin\Debug\net8.0\007_Exepciones_Intro.deps.json
+C:\Users\jotha\source\repos\000_Fundamentos\007_Exepciones_Intro\007_Exepciones_Intro\bin\Debug\net8.0\007_Exepciones_Intro.runtimeconfig.json
+C:\Users\jotha\source\repos\000_Fundamentos\007_Exepciones_Intro\007_Exepciones_Intro\bin\Debug\net8.0\007_Exepciones_Intro.dll
+C:\Users\jotha\source\repos\000_Fundamentos\007_Exepciones_Intro\007_Exepciones_Intro\bin\Debug\net8.0\007_Exepciones_Intro.pdb
+C:\Users\jotha\source\repos\000_Fundamentos\007_Exepciones_Intro\007_Exepciones_Intro\obj\Debug\net8.0\007_Exepciones_Intro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jotha\source\repos\000_Fundamentos\007_Exepciones_Intro\007_Exepciones_Intro\obj\Debug\net8.0\007_Exepciones_Intro.AssemblyInfoInputs.cache
+C:\Users\jotha\source\repos\000_Fundamentos\007_Exepciones_Intro\007_Exepciones_Intro\obj\Debug\net8.0\007_Exepciones_Intro.AssemblyInfo.cs
+C:\Users\jotha\source\repos\000_Fundamentos\007_Exepciones_Intro\007_Exepciones_Intro\obj\Debug\net8.0\007_Exepciones_Intro.csproj.CoreCompileInputs.cache
+C:\Users\jotha\source\repos\000_Fundamentos\007_Exepciones_Intro\007_Exepciones_Intro\obj\Debug\net8.0\007_Exepciones_Intro.dll
+C:\Users\jotha\source\repos\000_Fundamentos\007_Exepciones_Intro\007_Exepciones_Intro\obj\Debug\net8.0\refint\007_Exepciones_Intro.dll
+C:\Users\jotha\source\repos\000_Fundamentos\007_Exepciones_Intro\007_Exepciones_Intro\obj\Debug\net8.0\007_Exepciones_Intro.pdb
+C:\Users\jotha\source\repos\000_Fundamentos\007_Exepciones_Intro\007_Exepciones_Intro\obj\Debug\net8.0\007_Exepciones_Intro.genruntimeconfig.cache
+C:\Users\jotha\source\repos\000_Fundamentos\007_Exepciones_Intro\007_Exepciones_Intro\obj\Debug\net8.0\ref\007_Exepciones_Intro.dll

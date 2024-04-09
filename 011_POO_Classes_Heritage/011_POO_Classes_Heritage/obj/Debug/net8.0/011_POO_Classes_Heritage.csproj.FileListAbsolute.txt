@@ -1,0 +1,14 @@
+C:\Users\jotha\source\repos\000_Fundamentos\011_POO_Classes_Heritage\011_POO_Classes_Heritage\bin\Debug\net8.0\011_POO_Classes_Heritage.exe
+C:\Users\jotha\source\repos\000_Fundamentos\011_POO_Classes_Heritage\011_POO_Classes_Heritage\bin\Debug\net8.0\011_POO_Classes_Heritage.deps.json
+C:\Users\jotha\source\repos\000_Fundamentos\011_POO_Classes_Heritage\011_POO_Classes_Heritage\bin\Debug\net8.0\011_POO_Classes_Heritage.runtimeconfig.json
+C:\Users\jotha\source\repos\000_Fundamentos\011_POO_Classes_Heritage\011_POO_Classes_Heritage\bin\Debug\net8.0\011_POO_Classes_Heritage.dll
+C:\Users\jotha\source\repos\000_Fundamentos\011_POO_Classes_Heritage\011_POO_Classes_Heritage\bin\Debug\net8.0\011_POO_Classes_Heritage.pdb
+C:\Users\jotha\source\repos\000_Fundamentos\011_POO_Classes_Heritage\011_POO_Classes_Heritage\obj\Debug\net8.0\011_POO_Classes_Heritage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jotha\source\repos\000_Fundamentos\011_POO_Classes_Heritage\011_POO_Classes_Heritage\obj\Debug\net8.0\011_POO_Classes_Heritage.AssemblyInfoInputs.cache
+C:\Users\jotha\source\repos\000_Fundamentos\011_POO_Classes_Heritage\011_POO_Classes_Heritage\obj\Debug\net8.0\011_POO_Classes_Heritage.AssemblyInfo.cs
+C:\Users\jotha\source\repos\000_Fundamentos\011_POO_Classes_Heritage\011_POO_Classes_Heritage\obj\Debug\net8.0\011_POO_Classes_Heritage.csproj.CoreCompileInputs.cache
+C:\Users\jotha\source\repos\000_Fundamentos\011_POO_Classes_Heritage\011_POO_Classes_Heritage\obj\Debug\net8.0\011_POO_Classes_Heritage.dll
+C:\Users\jotha\source\repos\000_Fundamentos\011_POO_Classes_Heritage\011_POO_Classes_Heritage\obj\Debug\net8.0\refint\011_POO_Classes_Heritage.dll
+C:\Users\jotha\source\repos\000_Fundamentos\011_POO_Classes_Heritage\011_POO_Classes_Heritage\obj\Debug\net8.0\011_POO_Classes_Heritage.pdb
+C:\Users\jotha\source\repos\000_Fundamentos\011_POO_Classes_Heritage\011_POO_Classes_Heritage\obj\Debug\net8.0\011_POO_Classes_Heritage.genruntimeconfig.cache
+C:\Users\jotha\source\repos\000_Fundamentos\011_POO_Classes_Heritage\011_POO_Classes_Heritage\obj\Debug\net8.0\ref\011_POO_Classes_Heritage.dll

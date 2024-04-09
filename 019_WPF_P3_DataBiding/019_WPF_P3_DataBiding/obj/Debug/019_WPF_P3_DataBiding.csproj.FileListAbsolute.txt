@@ -1,0 +1,15 @@
+C:\Users\jotha\source\repos\000_Fundamentos\019_WPF_P3_DataBiding\019_WPF_P3_DataBiding\obj\Debug\019_WPF_P3_DataBiding.csproj.AssemblyReference.cache
+C:\Users\jotha\source\repos\000_Fundamentos\019_WPF_P3_DataBiding\019_WPF_P3_DataBiding\obj\Debug\MainWindow.g.cs
+C:\Users\jotha\source\repos\000_Fundamentos\019_WPF_P3_DataBiding\019_WPF_P3_DataBiding\obj\Debug\App.g.cs
+C:\Users\jotha\source\repos\000_Fundamentos\019_WPF_P3_DataBiding\019_WPF_P3_DataBiding\obj\Debug\019_WPF_P3_DataBiding_MarkupCompile.cache
+C:\Users\jotha\source\repos\000_Fundamentos\019_WPF_P3_DataBiding\019_WPF_P3_DataBiding\obj\Debug\019_WPF_P3_DataBiding_MarkupCompile.lref
+C:\Users\jotha\source\repos\000_Fundamentos\019_WPF_P3_DataBiding\019_WPF_P3_DataBiding\bin\Debug\019_WPF_P3_DataBiding.exe.config
+C:\Users\jotha\source\repos\000_Fundamentos\019_WPF_P3_DataBiding\019_WPF_P3_DataBiding\bin\Debug\019_WPF_P3_DataBiding.exe
+C:\Users\jotha\source\repos\000_Fundamentos\019_WPF_P3_DataBiding\019_WPF_P3_DataBiding\bin\Debug\019_WPF_P3_DataBiding.pdb
+C:\Users\jotha\source\repos\000_Fundamentos\019_WPF_P3_DataBiding\019_WPF_P3_DataBiding\obj\Debug\MainWindow.baml
+C:\Users\jotha\source\repos\000_Fundamentos\019_WPF_P3_DataBiding\019_WPF_P3_DataBiding\obj\Debug\019_WPF_P3_DataBiding.g.resources
+C:\Users\jotha\source\repos\000_Fundamentos\019_WPF_P3_DataBiding\019_WPF_P3_DataBiding\obj\Debug\_019_WPF_P3_DataBiding.Properties.Resources.resources
+C:\Users\jotha\source\repos\000_Fundamentos\019_WPF_P3_DataBiding\019_WPF_P3_DataBiding\obj\Debug\019_WPF_P3_DataBiding.csproj.GenerateResource.cache
+C:\Users\jotha\source\repos\000_Fundamentos\019_WPF_P3_DataBiding\019_WPF_P3_DataBiding\obj\Debug\019_WPF_P3_DataBiding.csproj.CoreCompileInputs.cache
+C:\Users\jotha\source\repos\000_Fundamentos\019_WPF_P3_DataBiding\019_WPF_P3_DataBiding\obj\Debug\019_WPF_P3_DataBiding.exe
+C:\Users\jotha\source\repos\000_Fundamentos\019_WPF_P3_DataBiding\019_WPF_P3_DataBiding\obj\Debug\019_WPF_P3_DataBiding.pdb

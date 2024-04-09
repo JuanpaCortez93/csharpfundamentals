@@ -1,0 +1,14 @@
+C:\Users\jotha\source\repos\000_Fundamentos\012_POO_Interfaces_P2\012_POO_Interfaces_P2\bin\Debug\net8.0\012_POO_Interfaces_P2.exe
+C:\Users\jotha\source\repos\000_Fundamentos\012_POO_Interfaces_P2\012_POO_Interfaces_P2\bin\Debug\net8.0\012_POO_Interfaces_P2.deps.json
+C:\Users\jotha\source\repos\000_Fundamentos\012_POO_Interfaces_P2\012_POO_Interfaces_P2\bin\Debug\net8.0\012_POO_Interfaces_P2.runtimeconfig.json
+C:\Users\jotha\source\repos\000_Fundamentos\012_POO_Interfaces_P2\012_POO_Interfaces_P2\bin\Debug\net8.0\012_POO_Interfaces_P2.dll
+C:\Users\jotha\source\repos\000_Fundamentos\012_POO_Interfaces_P2\012_POO_Interfaces_P2\bin\Debug\net8.0\012_POO_Interfaces_P2.pdb
+C:\Users\jotha\source\repos\000_Fundamentos\012_POO_Interfaces_P2\012_POO_Interfaces_P2\obj\Debug\net8.0\012_POO_Interfaces_P2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jotha\source\repos\000_Fundamentos\012_POO_Interfaces_P2\012_POO_Interfaces_P2\obj\Debug\net8.0\012_POO_Interfaces_P2.AssemblyInfoInputs.cache
+C:\Users\jotha\source\repos\000_Fundamentos\012_POO_Interfaces_P2\012_POO_Interfaces_P2\obj\Debug\net8.0\012_POO_Interfaces_P2.AssemblyInfo.cs
+C:\Users\jotha\source\repos\000_Fundamentos\012_POO_Interfaces_P2\012_POO_Interfaces_P2\obj\Debug\net8.0\012_POO_Interfaces_P2.csproj.CoreCompileInputs.cache
+C:\Users\jotha\source\repos\000_Fundamentos\012_POO_Interfaces_P2\012_POO_Interfaces_P2\obj\Debug\net8.0\012_POO_Interfaces_P2.dll
+C:\Users\jotha\source\repos\000_Fundamentos\012_POO_Interfaces_P2\012_POO_Interfaces_P2\obj\Debug\net8.0\refint\012_POO_Interfaces_P2.dll
+C:\Users\jotha\source\repos\000_Fundamentos\012_POO_Interfaces_P2\012_POO_Interfaces_P2\obj\Debug\net8.0\012_POO_Interfaces_P2.pdb
+C:\Users\jotha\source\repos\000_Fundamentos\012_POO_Interfaces_P2\012_POO_Interfaces_P2\obj\Debug\net8.0\012_POO_Interfaces_P2.genruntimeconfig.cache
+C:\Users\jotha\source\repos\000_Fundamentos\012_POO_Interfaces_P2\012_POO_Interfaces_P2\obj\Debug\net8.0\ref\012_POO_Interfaces_P2.dll

@@ -1,0 +1,14 @@
+C:\Users\jotha\source\repos\000_Fundamentos\001_Metodos_Intro\001_Metodos_Intro\bin\Debug\net8.0\001_Metodos_Intro.exe
+C:\Users\jotha\source\repos\000_Fundamentos\001_Metodos_Intro\001_Metodos_Intro\bin\Debug\net8.0\001_Metodos_Intro.deps.json
+C:\Users\jotha\source\repos\000_Fundamentos\001_Metodos_Intro\001_Metodos_Intro\bin\Debug\net8.0\001_Metodos_Intro.runtimeconfig.json
+C:\Users\jotha\source\repos\000_Fundamentos\001_Metodos_Intro\001_Metodos_Intro\bin\Debug\net8.0\001_Metodos_Intro.dll
+C:\Users\jotha\source\repos\000_Fundamentos\001_Metodos_Intro\001_Metodos_Intro\bin\Debug\net8.0\001_Metodos_Intro.pdb
+C:\Users\jotha\source\repos\000_Fundamentos\001_Metodos_Intro\001_Metodos_Intro\obj\Debug\net8.0\001_Metodos_Intro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jotha\source\repos\000_Fundamentos\001_Metodos_Intro\001_Metodos_Intro\obj\Debug\net8.0\001_Metodos_Intro.AssemblyInfoInputs.cache
+C:\Users\jotha\source\repos\000_Fundamentos\001_Metodos_Intro\001_Metodos_Intro\obj\Debug\net8.0\001_Metodos_Intro.AssemblyInfo.cs
+C:\Users\jotha\source\repos\000_Fundamentos\001_Metodos_Intro\001_Metodos_Intro\obj\Debug\net8.0\001_Metodos_Intro.csproj.CoreCompileInputs.cache
+C:\Users\jotha\source\repos\000_Fundamentos\001_Metodos_Intro\001_Metodos_Intro\obj\Debug\net8.0\001_Metodos_Intro.dll
+C:\Users\jotha\source\repos\000_Fundamentos\001_Metodos_Intro\001_Metodos_Intro\obj\Debug\net8.0\refint\001_Metodos_Intro.dll
+C:\Users\jotha\source\repos\000_Fundamentos\001_Metodos_Intro\001_Metodos_Intro\obj\Debug\net8.0\001_Metodos_Intro.pdb
+C:\Users\jotha\source\repos\000_Fundamentos\001_Metodos_Intro\001_Metodos_Intro\obj\Debug\net8.0\001_Metodos_Intro.genruntimeconfig.cache
+C:\Users\jotha\source\repos\000_Fundamentos\001_Metodos_Intro\001_Metodos_Intro\obj\Debug\net8.0\ref\001_Metodos_Intro.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "021_BBDD_LINQ_P2_POO/1.0.0": {
+        "runtime": {
+          "021_BBDD_LINQ_P2_POO.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "021_BBDD_LINQ_P2_POO/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

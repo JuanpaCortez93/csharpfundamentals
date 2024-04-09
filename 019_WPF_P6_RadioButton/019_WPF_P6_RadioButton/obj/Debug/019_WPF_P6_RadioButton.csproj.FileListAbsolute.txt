@@ -1,0 +1,15 @@
+C:\Users\jotha\source\repos\000_Fundamentos\019_WPF_P6_RadioButton\019_WPF_P6_RadioButton\bin\Debug\019_WPF_P6_RadioButton.exe.config
+C:\Users\jotha\source\repos\000_Fundamentos\019_WPF_P6_RadioButton\019_WPF_P6_RadioButton\bin\Debug\019_WPF_P6_RadioButton.exe
+C:\Users\jotha\source\repos\000_Fundamentos\019_WPF_P6_RadioButton\019_WPF_P6_RadioButton\bin\Debug\019_WPF_P6_RadioButton.pdb
+C:\Users\jotha\source\repos\000_Fundamentos\019_WPF_P6_RadioButton\019_WPF_P6_RadioButton\obj\Debug\019_WPF_P6_RadioButton.csproj.AssemblyReference.cache
+C:\Users\jotha\source\repos\000_Fundamentos\019_WPF_P6_RadioButton\019_WPF_P6_RadioButton\obj\Debug\MainWindow.g.cs
+C:\Users\jotha\source\repos\000_Fundamentos\019_WPF_P6_RadioButton\019_WPF_P6_RadioButton\obj\Debug\App.g.cs
+C:\Users\jotha\source\repos\000_Fundamentos\019_WPF_P6_RadioButton\019_WPF_P6_RadioButton\obj\Debug\019_WPF_P6_RadioButton_MarkupCompile.cache
+C:\Users\jotha\source\repos\000_Fundamentos\019_WPF_P6_RadioButton\019_WPF_P6_RadioButton\obj\Debug\019_WPF_P6_RadioButton_MarkupCompile.lref
+C:\Users\jotha\source\repos\000_Fundamentos\019_WPF_P6_RadioButton\019_WPF_P6_RadioButton\obj\Debug\MainWindow.baml
+C:\Users\jotha\source\repos\000_Fundamentos\019_WPF_P6_RadioButton\019_WPF_P6_RadioButton\obj\Debug\019_WPF_P6_RadioButton.g.resources
+C:\Users\jotha\source\repos\000_Fundamentos\019_WPF_P6_RadioButton\019_WPF_P6_RadioButton\obj\Debug\_019_WPF_P6_RadioButton.Properties.Resources.resources
+C:\Users\jotha\source\repos\000_Fundamentos\019_WPF_P6_RadioButton\019_WPF_P6_RadioButton\obj\Debug\019_WPF_P6_RadioButton.csproj.GenerateResource.cache
+C:\Users\jotha\source\repos\000_Fundamentos\019_WPF_P6_RadioButton\019_WPF_P6_RadioButton\obj\Debug\019_WPF_P6_RadioButton.csproj.CoreCompileInputs.cache
+C:\Users\jotha\source\repos\000_Fundamentos\019_WPF_P6_RadioButton\019_WPF_P6_RadioButton\obj\Debug\019_WPF_P6_RadioButton.exe
+C:\Users\jotha\source\repos\000_Fundamentos\019_WPF_P6_RadioButton\019_WPF_P6_RadioButton\obj\Debug\019_WPF_P6_RadioButton.pdb

@@ -1,0 +1,56 @@
+﻿<Window x:Class="_019_WPF_P6_RadioButton.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:_019_WPF_P6_RadioButton"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="75"></RowDefinition>
+            <RowDefinition Height="*"></RowDefinition>
+        </Grid.RowDefinitions>
+
+        <StackPanel Grid.Row="0">
+            <TextBlock Text="Semáforo" FontSize="45" TextAlignment="Center" FontWeight="SemiBold"></TextBlock>
+        </StackPanel>
+
+        <StackPanel Grid.Row="1">
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*"></ColumnDefinition>
+                    <ColumnDefinition Width="*"></ColumnDefinition>
+                </Grid.ColumnDefinitions>
+
+                <StackPanel>
+                    <RadioButton Margin="10 20 0 20" Click="RadioButton_Click">
+                        <TextBlock>Rojo</TextBlock>
+                    </RadioButton>
+
+                    <RadioButton Margin="10 20 0 20" Click="RadioButton_Click_1">
+                        <TextBlock>Amarillo</TextBlock>
+                    </RadioButton>
+
+                    <RadioButton Margin="10 20 0 20" Click="RadioButton_Click_2">
+                        <TextBlock>Verde</TextBlock>
+                    </RadioButton>
+
+                </StackPanel>
+
+                <Grid Grid.Column="1">
+                    <Ellipse Name="ColorRojo" Width="100" Height="100" Fill="Red" Margin="20 20 20 200" Visibility="Hidden"/>
+                    <Ellipse Name="ColorAmarillo" Width="100" Height="100" Fill="Yellow" Visibility="Hidden"/>
+                    <Ellipse Name="ColorVerde" Width="100" Height="100" Fill="Green" Margin="20 200 20 20" Visibility="Hidden"/>
+                    <Image Source="C:\Users\jotha\Downloads\51311.png" Height="358" Width="398" VerticalAlignment="Stretch" HorizontalAlignment="Stretch"/>
+
+                </Grid>
+
+            </Grid>
+        </StackPanel>
+
+
+
+    </Grid>
+</Window>

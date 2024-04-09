@@ -1,0 +1,14 @@
+C:\Users\jotha\source\repos\000_Fundamentos\017_Genericos\017_Genericos\bin\Debug\net8.0\017_Genericos.exe
+C:\Users\jotha\source\repos\000_Fundamentos\017_Genericos\017_Genericos\bin\Debug\net8.0\017_Genericos.deps.json
+C:\Users\jotha\source\repos\000_Fundamentos\017_Genericos\017_Genericos\bin\Debug\net8.0\017_Genericos.runtimeconfig.json
+C:\Users\jotha\source\repos\000_Fundamentos\017_Genericos\017_Genericos\bin\Debug\net8.0\017_Genericos.dll
+C:\Users\jotha\source\repos\000_Fundamentos\017_Genericos\017_Genericos\bin\Debug\net8.0\017_Genericos.pdb
+C:\Users\jotha\source\repos\000_Fundamentos\017_Genericos\017_Genericos\obj\Debug\net8.0\017_Genericos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jotha\source\repos\000_Fundamentos\017_Genericos\017_Genericos\obj\Debug\net8.0\017_Genericos.AssemblyInfoInputs.cache
+C:\Users\jotha\source\repos\000_Fundamentos\017_Genericos\017_Genericos\obj\Debug\net8.0\017_Genericos.AssemblyInfo.cs
+C:\Users\jotha\source\repos\000_Fundamentos\017_Genericos\017_Genericos\obj\Debug\net8.0\017_Genericos.csproj.CoreCompileInputs.cache
+C:\Users\jotha\source\repos\000_Fundamentos\017_Genericos\017_Genericos\obj\Debug\net8.0\017_Genericos.dll
+C:\Users\jotha\source\repos\000_Fundamentos\017_Genericos\017_Genericos\obj\Debug\net8.0\refint\017_Genericos.dll
+C:\Users\jotha\source\repos\000_Fundamentos\017_Genericos\017_Genericos\obj\Debug\net8.0\017_Genericos.pdb
+C:\Users\jotha\source\repos\000_Fundamentos\017_Genericos\017_Genericos\obj\Debug\net8.0\017_Genericos.genruntimeconfig.cache
+C:\Users\jotha\source\repos\000_Fundamentos\017_Genericos\017_Genericos\obj\Debug\net8.0\ref\017_Genericos.dll

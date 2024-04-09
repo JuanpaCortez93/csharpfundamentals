@@ -1,0 +1,14 @@
+C:\Users\jotha\source\repos\000_Fundamentos\008_POO_Classes_Instances\008_POO_Classes_Instances\bin\Debug\net8.0\008_POO_Classes_Instances.exe
+C:\Users\jotha\source\repos\000_Fundamentos\008_POO_Classes_Instances\008_POO_Classes_Instances\bin\Debug\net8.0\008_POO_Classes_Instances.deps.json
+C:\Users\jotha\source\repos\000_Fundamentos\008_POO_Classes_Instances\008_POO_Classes_Instances\bin\Debug\net8.0\008_POO_Classes_Instances.runtimeconfig.json
+C:\Users\jotha\source\repos\000_Fundamentos\008_POO_Classes_Instances\008_POO_Classes_Instances\bin\Debug\net8.0\008_POO_Classes_Instances.dll
+C:\Users\jotha\source\repos\000_Fundamentos\008_POO_Classes_Instances\008_POO_Classes_Instances\bin\Debug\net8.0\008_POO_Classes_Instances.pdb
+C:\Users\jotha\source\repos\000_Fundamentos\008_POO_Classes_Instances\008_POO_Classes_Instances\obj\Debug\net8.0\008_POO_Classes_Instances.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jotha\source\repos\000_Fundamentos\008_POO_Classes_Instances\008_POO_Classes_Instances\obj\Debug\net8.0\008_POO_Classes_Instances.AssemblyInfoInputs.cache
+C:\Users\jotha\source\repos\000_Fundamentos\008_POO_Classes_Instances\008_POO_Classes_Instances\obj\Debug\net8.0\008_POO_Classes_Instances.AssemblyInfo.cs
+C:\Users\jotha\source\repos\000_Fundamentos\008_POO_Classes_Instances\008_POO_Classes_Instances\obj\Debug\net8.0\008_POO_Classes_Instances.csproj.CoreCompileInputs.cache
+C:\Users\jotha\source\repos\000_Fundamentos\008_POO_Classes_Instances\008_POO_Classes_Instances\obj\Debug\net8.0\008_POO_Classes_Instances.dll
+C:\Users\jotha\source\repos\000_Fundamentos\008_POO_Classes_Instances\008_POO_Classes_Instances\obj\Debug\net8.0\refint\008_POO_Classes_Instances.dll
+C:\Users\jotha\source\repos\000_Fundamentos\008_POO_Classes_Instances\008_POO_Classes_Instances\obj\Debug\net8.0\008_POO_Classes_Instances.pdb
+C:\Users\jotha\source\repos\000_Fundamentos\008_POO_Classes_Instances\008_POO_Classes_Instances\obj\Debug\net8.0\008_POO_Classes_Instances.genruntimeconfig.cache
+C:\Users\jotha\source\repos\000_Fundamentos\008_POO_Classes_Instances\008_POO_Classes_Instances\obj\Debug\net8.0\ref\008_POO_Classes_Instances.dll

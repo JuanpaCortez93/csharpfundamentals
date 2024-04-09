@@ -1,0 +1,14 @@
+C:\Users\jotha\source\repos\000_Fundamentos\013_POO_Generics\013_POO_Generics\bin\Debug\net8.0\013_POO_Generics.exe
+C:\Users\jotha\source\repos\000_Fundamentos\013_POO_Generics\013_POO_Generics\bin\Debug\net8.0\013_POO_Generics.deps.json
+C:\Users\jotha\source\repos\000_Fundamentos\013_POO_Generics\013_POO_Generics\bin\Debug\net8.0\013_POO_Generics.runtimeconfig.json
+C:\Users\jotha\source\repos\000_Fundamentos\013_POO_Generics\013_POO_Generics\bin\Debug\net8.0\013_POO_Generics.dll
+C:\Users\jotha\source\repos\000_Fundamentos\013_POO_Generics\013_POO_Generics\bin\Debug\net8.0\013_POO_Generics.pdb
+C:\Users\jotha\source\repos\000_Fundamentos\013_POO_Generics\013_POO_Generics\obj\Debug\net8.0\013_POO_Generics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jotha\source\repos\000_Fundamentos\013_POO_Generics\013_POO_Generics\obj\Debug\net8.0\013_POO_Generics.AssemblyInfoInputs.cache
+C:\Users\jotha\source\repos\000_Fundamentos\013_POO_Generics\013_POO_Generics\obj\Debug\net8.0\013_POO_Generics.AssemblyInfo.cs
+C:\Users\jotha\source\repos\000_Fundamentos\013_POO_Generics\013_POO_Generics\obj\Debug\net8.0\013_POO_Generics.csproj.CoreCompileInputs.cache
+C:\Users\jotha\source\repos\000_Fundamentos\013_POO_Generics\013_POO_Generics\obj\Debug\net8.0\013_POO_Generics.dll
+C:\Users\jotha\source\repos\000_Fundamentos\013_POO_Generics\013_POO_Generics\obj\Debug\net8.0\refint\013_POO_Generics.dll
+C:\Users\jotha\source\repos\000_Fundamentos\013_POO_Generics\013_POO_Generics\obj\Debug\net8.0\013_POO_Generics.pdb
+C:\Users\jotha\source\repos\000_Fundamentos\013_POO_Generics\013_POO_Generics\obj\Debug\net8.0\013_POO_Generics.genruntimeconfig.cache
+C:\Users\jotha\source\repos\000_Fundamentos\013_POO_Generics\013_POO_Generics\obj\Debug\net8.0\ref\013_POO_Generics.dll

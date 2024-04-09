@@ -1,0 +1,14 @@
+C:\Users\jotha\source\repos\000_Fundamentos\006_ECF_While_Ejercicio\006_ECF_While_Ejercicio\bin\Debug\net8.0\006_ECF_While_Ejercicio.exe
+C:\Users\jotha\source\repos\000_Fundamentos\006_ECF_While_Ejercicio\006_ECF_While_Ejercicio\bin\Debug\net8.0\006_ECF_While_Ejercicio.deps.json
+C:\Users\jotha\source\repos\000_Fundamentos\006_ECF_While_Ejercicio\006_ECF_While_Ejercicio\bin\Debug\net8.0\006_ECF_While_Ejercicio.runtimeconfig.json
+C:\Users\jotha\source\repos\000_Fundamentos\006_ECF_While_Ejercicio\006_ECF_While_Ejercicio\bin\Debug\net8.0\006_ECF_While_Ejercicio.dll
+C:\Users\jotha\source\repos\000_Fundamentos\006_ECF_While_Ejercicio\006_ECF_While_Ejercicio\bin\Debug\net8.0\006_ECF_While_Ejercicio.pdb
+C:\Users\jotha\source\repos\000_Fundamentos\006_ECF_While_Ejercicio\006_ECF_While_Ejercicio\obj\Debug\net8.0\006_ECF_While_Ejercicio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jotha\source\repos\000_Fundamentos\006_ECF_While_Ejercicio\006_ECF_While_Ejercicio\obj\Debug\net8.0\006_ECF_While_Ejercicio.AssemblyInfoInputs.cache
+C:\Users\jotha\source\repos\000_Fundamentos\006_ECF_While_Ejercicio\006_ECF_While_Ejercicio\obj\Debug\net8.0\006_ECF_While_Ejercicio.AssemblyInfo.cs
+C:\Users\jotha\source\repos\000_Fundamentos\006_ECF_While_Ejercicio\006_ECF_While_Ejercicio\obj\Debug\net8.0\006_ECF_While_Ejercicio.csproj.CoreCompileInputs.cache
+C:\Users\jotha\source\repos\000_Fundamentos\006_ECF_While_Ejercicio\006_ECF_While_Ejercicio\obj\Debug\net8.0\006_ECF_While_Ejercicio.dll
+C:\Users\jotha\source\repos\000_Fundamentos\006_ECF_While_Ejercicio\006_ECF_While_Ejercicio\obj\Debug\net8.0\refint\006_ECF_While_Ejercicio.dll
+C:\Users\jotha\source\repos\000_Fundamentos\006_ECF_While_Ejercicio\006_ECF_While_Ejercicio\obj\Debug\net8.0\006_ECF_While_Ejercicio.pdb
+C:\Users\jotha\source\repos\000_Fundamentos\006_ECF_While_Ejercicio\006_ECF_While_Ejercicio\obj\Debug\net8.0\006_ECF_While_Ejercicio.genruntimeconfig.cache
+C:\Users\jotha\source\repos\000_Fundamentos\006_ECF_While_Ejercicio\006_ECF_While_Ejercicio\obj\Debug\net8.0\ref\006_ECF_While_Ejercicio.dll

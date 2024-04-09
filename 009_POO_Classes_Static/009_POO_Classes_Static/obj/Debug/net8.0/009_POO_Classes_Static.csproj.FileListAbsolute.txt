@@ -1,0 +1,14 @@
+C:\Users\jotha\source\repos\000_Fundamentos\009_POO_Classes_Static\009_POO_Classes_Static\bin\Debug\net8.0\009_POO_Classes_Static.exe
+C:\Users\jotha\source\repos\000_Fundamentos\009_POO_Classes_Static\009_POO_Classes_Static\bin\Debug\net8.0\009_POO_Classes_Static.deps.json
+C:\Users\jotha\source\repos\000_Fundamentos\009_POO_Classes_Static\009_POO_Classes_Static\bin\Debug\net8.0\009_POO_Classes_Static.runtimeconfig.json
+C:\Users\jotha\source\repos\000_Fundamentos\009_POO_Classes_Static\009_POO_Classes_Static\bin\Debug\net8.0\009_POO_Classes_Static.dll
+C:\Users\jotha\source\repos\000_Fundamentos\009_POO_Classes_Static\009_POO_Classes_Static\bin\Debug\net8.0\009_POO_Classes_Static.pdb
+C:\Users\jotha\source\repos\000_Fundamentos\009_POO_Classes_Static\009_POO_Classes_Static\obj\Debug\net8.0\009_POO_Classes_Static.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jotha\source\repos\000_Fundamentos\009_POO_Classes_Static\009_POO_Classes_Static\obj\Debug\net8.0\009_POO_Classes_Static.AssemblyInfoInputs.cache
+C:\Users\jotha\source\repos\000_Fundamentos\009_POO_Classes_Static\009_POO_Classes_Static\obj\Debug\net8.0\009_POO_Classes_Static.AssemblyInfo.cs
+C:\Users\jotha\source\repos\000_Fundamentos\009_POO_Classes_Static\009_POO_Classes_Static\obj\Debug\net8.0\009_POO_Classes_Static.csproj.CoreCompileInputs.cache
+C:\Users\jotha\source\repos\000_Fundamentos\009_POO_Classes_Static\009_POO_Classes_Static\obj\Debug\net8.0\009_POO_Classes_Static.dll
+C:\Users\jotha\source\repos\000_Fundamentos\009_POO_Classes_Static\009_POO_Classes_Static\obj\Debug\net8.0\refint\009_POO_Classes_Static.dll
+C:\Users\jotha\source\repos\000_Fundamentos\009_POO_Classes_Static\009_POO_Classes_Static\obj\Debug\net8.0\009_POO_Classes_Static.pdb
+C:\Users\jotha\source\repos\000_Fundamentos\009_POO_Classes_Static\009_POO_Classes_Static\obj\Debug\net8.0\009_POO_Classes_Static.genruntimeconfig.cache
+C:\Users\jotha\source\repos\000_Fundamentos\009_POO_Classes_Static\009_POO_Classes_Static\obj\Debug\net8.0\ref\009_POO_Classes_Static.dll

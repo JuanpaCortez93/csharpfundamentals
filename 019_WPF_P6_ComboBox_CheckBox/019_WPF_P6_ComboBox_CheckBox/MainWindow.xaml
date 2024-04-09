@@ -1,0 +1,48 @@
+﻿<Window x:Class="_019_WPF_P6_ComboBox_CheckBox.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:_019_WPF_P6_ComboBox_CheckBox"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"></ColumnDefinition>
+            <ColumnDefinition Width="*"></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+
+        <StackPanel Grid.Column="0">
+            <ComboBox Name="Capitals">
+                <ComboBox.ItemTemplate>
+                    <DataTemplate>
+                        <StackPanel Orientation="Horizontal">
+                            <TextBlock Text="{Binding Name}" FontSize="16"></TextBlock>
+                        </StackPanel>
+                    </DataTemplate>
+                </ComboBox.ItemTemplate>
+            </ComboBox>
+                       
+        </StackPanel>
+
+        <StackPanel Grid.Column="1">
+            <Label FontStyle="Oblique">Countries</Label>
+            <CheckBox Name="AllCountries" Checked="AllCountries_Checked" Unchecked="AllCountries_Unchecked">Agregar todas las capitales</CheckBox>
+
+            <StackPanel Margin="15">
+                <CheckBox Name="Venezuela" Checked="Capital_Checked" Unchecked="Capital_Unchecked">Venezuela</CheckBox>
+                <CheckBox Name="Colombia" Checked="Capital_Checked" Unchecked="Capital_Unchecked">Colombia</CheckBox>
+                <CheckBox Name="Ecuador" Checked="Capital_Checked" Unchecked="Capital_Unchecked">Ecuador</CheckBox>
+                <CheckBox Name="Peru" Checked="Capital_Checked" Unchecked="Capital_Unchecked">Perú</CheckBox>
+                <CheckBox Name="Chile" Checked="Capital_Checked" Unchecked="Capital_Unchecked">Chile</CheckBox>
+                <CheckBox Name="Argentina" Checked="Capital_Checked" Unchecked="Capital_Unchecked">Argentina</CheckBox>
+                <CheckBox Name="Bolivia" Checked="Capital_Checked" Unchecked="Capital_Unchecked">Bolivia</CheckBox>
+                <CheckBox Name="Uruguay" Checked="Capital_Checked" Unchecked="Capital_Unchecked">Uruguay</CheckBox>
+                <CheckBox Name="Paraguay" Checked="Capital_Checked" Unchecked="Capital_Unchecked">Paraguay</CheckBox>
+                <CheckBox Name="Brasil" Checked="Capital_Checked" Unchecked="Capital_Unchecked">Brasil</CheckBox>
+            </StackPanel>
+            
+        </StackPanel>
+        
+    </Grid>
+</Window>

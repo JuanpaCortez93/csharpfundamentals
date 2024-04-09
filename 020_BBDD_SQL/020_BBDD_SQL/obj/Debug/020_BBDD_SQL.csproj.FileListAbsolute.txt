@@ -1,0 +1,17 @@
+C:\Users\jotha\source\repos\000_Fundamentos\020_BBDD_SQL\020_BBDD_SQL\obj\Debug\020_BBDD_SQL.csproj.AssemblyReference.cache
+C:\Users\jotha\source\repos\000_Fundamentos\020_BBDD_SQL\020_BBDD_SQL\obj\Debug\MainWindow.g.cs
+C:\Users\jotha\source\repos\000_Fundamentos\020_BBDD_SQL\020_BBDD_SQL\obj\Debug\App.g.cs
+C:\Users\jotha\source\repos\000_Fundamentos\020_BBDD_SQL\020_BBDD_SQL\obj\Debug\020_BBDD_SQL_MarkupCompile.cache
+C:\Users\jotha\source\repos\000_Fundamentos\020_BBDD_SQL\020_BBDD_SQL\obj\Debug\020_BBDD_SQL_MarkupCompile.lref
+C:\Users\jotha\source\repos\000_Fundamentos\020_BBDD_SQL\020_BBDD_SQL\bin\Debug\020_BBDD_SQL.exe.config
+C:\Users\jotha\source\repos\000_Fundamentos\020_BBDD_SQL\020_BBDD_SQL\bin\Debug\020_BBDD_SQL.exe
+C:\Users\jotha\source\repos\000_Fundamentos\020_BBDD_SQL\020_BBDD_SQL\bin\Debug\020_BBDD_SQL.pdb
+C:\Users\jotha\source\repos\000_Fundamentos\020_BBDD_SQL\020_BBDD_SQL\obj\Debug\MainWindow.baml
+C:\Users\jotha\source\repos\000_Fundamentos\020_BBDD_SQL\020_BBDD_SQL\obj\Debug\020_BBDD_SQL.g.resources
+C:\Users\jotha\source\repos\000_Fundamentos\020_BBDD_SQL\020_BBDD_SQL\obj\Debug\_020_BBDD_SQL.Properties.Resources.resources
+C:\Users\jotha\source\repos\000_Fundamentos\020_BBDD_SQL\020_BBDD_SQL\obj\Debug\020_BBDD_SQL.csproj.GenerateResource.cache
+C:\Users\jotha\source\repos\000_Fundamentos\020_BBDD_SQL\020_BBDD_SQL\obj\Debug\020_BBDD_SQL.csproj.CoreCompileInputs.cache
+C:\Users\jotha\source\repos\000_Fundamentos\020_BBDD_SQL\020_BBDD_SQL\obj\Debug\020_BBDD_SQL.exe
+C:\Users\jotha\source\repos\000_Fundamentos\020_BBDD_SQL\020_BBDD_SQL\obj\Debug\020_BBDD_SQL.pdb
+C:\Users\jotha\source\repos\000_Fundamentos\020_BBDD_SQL\020_BBDD_SQL\obj\Debug\EditClient.g.cs
+C:\Users\jotha\source\repos\000_Fundamentos\020_BBDD_SQL\020_BBDD_SQL\obj\Debug\EditClient.baml

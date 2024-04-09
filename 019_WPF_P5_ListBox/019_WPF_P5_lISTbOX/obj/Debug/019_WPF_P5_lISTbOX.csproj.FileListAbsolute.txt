@@ -1,0 +1,15 @@
+C:\Users\jotha\source\repos\000_Fundamentos\019_WPF_P5_lISTbOX\019_WPF_P5_lISTbOX\bin\Debug\019_WPF_P5_lISTbOX.exe.config
+C:\Users\jotha\source\repos\000_Fundamentos\019_WPF_P5_lISTbOX\019_WPF_P5_lISTbOX\bin\Debug\019_WPF_P5_lISTbOX.exe
+C:\Users\jotha\source\repos\000_Fundamentos\019_WPF_P5_lISTbOX\019_WPF_P5_lISTbOX\bin\Debug\019_WPF_P5_lISTbOX.pdb
+C:\Users\jotha\source\repos\000_Fundamentos\019_WPF_P5_lISTbOX\019_WPF_P5_lISTbOX\obj\Debug\019_WPF_P5_lISTbOX.csproj.AssemblyReference.cache
+C:\Users\jotha\source\repos\000_Fundamentos\019_WPF_P5_lISTbOX\019_WPF_P5_lISTbOX\obj\Debug\MainWindow.g.cs
+C:\Users\jotha\source\repos\000_Fundamentos\019_WPF_P5_lISTbOX\019_WPF_P5_lISTbOX\obj\Debug\App.g.cs
+C:\Users\jotha\source\repos\000_Fundamentos\019_WPF_P5_lISTbOX\019_WPF_P5_lISTbOX\obj\Debug\019_WPF_P5_lISTbOX_MarkupCompile.cache
+C:\Users\jotha\source\repos\000_Fundamentos\019_WPF_P5_lISTbOX\019_WPF_P5_lISTbOX\obj\Debug\019_WPF_P5_lISTbOX_MarkupCompile.lref
+C:\Users\jotha\source\repos\000_Fundamentos\019_WPF_P5_lISTbOX\019_WPF_P5_lISTbOX\obj\Debug\MainWindow.baml
+C:\Users\jotha\source\repos\000_Fundamentos\019_WPF_P5_lISTbOX\019_WPF_P5_lISTbOX\obj\Debug\019_WPF_P5_lISTbOX.g.resources
+C:\Users\jotha\source\repos\000_Fundamentos\019_WPF_P5_lISTbOX\019_WPF_P5_lISTbOX\obj\Debug\_019_WPF_P5_lISTbOX.Properties.Resources.resources
+C:\Users\jotha\source\repos\000_Fundamentos\019_WPF_P5_lISTbOX\019_WPF_P5_lISTbOX\obj\Debug\019_WPF_P5_lISTbOX.csproj.GenerateResource.cache
+C:\Users\jotha\source\repos\000_Fundamentos\019_WPF_P5_lISTbOX\019_WPF_P5_lISTbOX\obj\Debug\019_WPF_P5_lISTbOX.csproj.CoreCompileInputs.cache
+C:\Users\jotha\source\repos\000_Fundamentos\019_WPF_P5_lISTbOX\019_WPF_P5_lISTbOX\obj\Debug\019_WPF_P5_lISTbOX.exe
+C:\Users\jotha\source\repos\000_Fundamentos\019_WPF_P5_lISTbOX\019_WPF_P5_lISTbOX\obj\Debug\019_WPF_P5_lISTbOX.pdb

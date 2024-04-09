@@ -1,0 +1,14 @@
+C:\Users\jotha\source\repos\000_Fundamentos\002_Metodos_Sobrecarga\002_Metodos_Sobrecarga\obj\Debug\net8.0\002_Metodos_Sobrecarga.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jotha\source\repos\000_Fundamentos\002_Metodos_Sobrecarga\002_Metodos_Sobrecarga\obj\Debug\net8.0\002_Metodos_Sobrecarga.AssemblyInfoInputs.cache
+C:\Users\jotha\source\repos\000_Fundamentos\002_Metodos_Sobrecarga\002_Metodos_Sobrecarga\obj\Debug\net8.0\002_Metodos_Sobrecarga.AssemblyInfo.cs
+C:\Users\jotha\source\repos\000_Fundamentos\002_Metodos_Sobrecarga\002_Metodos_Sobrecarga\obj\Debug\net8.0\002_Metodos_Sobrecarga.csproj.CoreCompileInputs.cache
+C:\Users\jotha\source\repos\000_Fundamentos\002_Metodos_Sobrecarga\002_Metodos_Sobrecarga\bin\Debug\net8.0\002_Metodos_Sobrecarga.exe
+C:\Users\jotha\source\repos\000_Fundamentos\002_Metodos_Sobrecarga\002_Metodos_Sobrecarga\bin\Debug\net8.0\002_Metodos_Sobrecarga.deps.json
+C:\Users\jotha\source\repos\000_Fundamentos\002_Metodos_Sobrecarga\002_Metodos_Sobrecarga\bin\Debug\net8.0\002_Metodos_Sobrecarga.runtimeconfig.json
+C:\Users\jotha\source\repos\000_Fundamentos\002_Metodos_Sobrecarga\002_Metodos_Sobrecarga\bin\Debug\net8.0\002_Metodos_Sobrecarga.dll
+C:\Users\jotha\source\repos\000_Fundamentos\002_Metodos_Sobrecarga\002_Metodos_Sobrecarga\bin\Debug\net8.0\002_Metodos_Sobrecarga.pdb
+C:\Users\jotha\source\repos\000_Fundamentos\002_Metodos_Sobrecarga\002_Metodos_Sobrecarga\obj\Debug\net8.0\002_Metodos_Sobrecarga.dll
+C:\Users\jotha\source\repos\000_Fundamentos\002_Metodos_Sobrecarga\002_Metodos_Sobrecarga\obj\Debug\net8.0\refint\002_Metodos_Sobrecarga.dll
+C:\Users\jotha\source\repos\000_Fundamentos\002_Metodos_Sobrecarga\002_Metodos_Sobrecarga\obj\Debug\net8.0\002_Metodos_Sobrecarga.pdb
+C:\Users\jotha\source\repos\000_Fundamentos\002_Metodos_Sobrecarga\002_Metodos_Sobrecarga\obj\Debug\net8.0\002_Metodos_Sobrecarga.genruntimeconfig.cache
+C:\Users\jotha\source\repos\000_Fundamentos\002_Metodos_Sobrecarga\002_Metodos_Sobrecarga\obj\Debug\net8.0\ref\002_Metodos_Sobrecarga.dll

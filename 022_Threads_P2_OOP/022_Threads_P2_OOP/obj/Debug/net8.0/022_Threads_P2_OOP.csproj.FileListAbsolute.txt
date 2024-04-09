@@ -1,0 +1,14 @@
+C:\Users\jotha\source\repos\000_Fundamentos\022_Threads_P2_OOP\022_Threads_P2_OOP\bin\Debug\net8.0\022_Threads_P2_OOP.exe
+C:\Users\jotha\source\repos\000_Fundamentos\022_Threads_P2_OOP\022_Threads_P2_OOP\bin\Debug\net8.0\022_Threads_P2_OOP.deps.json
+C:\Users\jotha\source\repos\000_Fundamentos\022_Threads_P2_OOP\022_Threads_P2_OOP\bin\Debug\net8.0\022_Threads_P2_OOP.runtimeconfig.json
+C:\Users\jotha\source\repos\000_Fundamentos\022_Threads_P2_OOP\022_Threads_P2_OOP\bin\Debug\net8.0\022_Threads_P2_OOP.dll
+C:\Users\jotha\source\repos\000_Fundamentos\022_Threads_P2_OOP\022_Threads_P2_OOP\bin\Debug\net8.0\022_Threads_P2_OOP.pdb
+C:\Users\jotha\source\repos\000_Fundamentos\022_Threads_P2_OOP\022_Threads_P2_OOP\obj\Debug\net8.0\022_Threads_P2_OOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jotha\source\repos\000_Fundamentos\022_Threads_P2_OOP\022_Threads_P2_OOP\obj\Debug\net8.0\022_Threads_P2_OOP.AssemblyInfoInputs.cache
+C:\Users\jotha\source\repos\000_Fundamentos\022_Threads_P2_OOP\022_Threads_P2_OOP\obj\Debug\net8.0\022_Threads_P2_OOP.AssemblyInfo.cs
+C:\Users\jotha\source\repos\000_Fundamentos\022_Threads_P2_OOP\022_Threads_P2_OOP\obj\Debug\net8.0\022_Threads_P2_OOP.csproj.CoreCompileInputs.cache
+C:\Users\jotha\source\repos\000_Fundamentos\022_Threads_P2_OOP\022_Threads_P2_OOP\obj\Debug\net8.0\022_Threads_P2_OOP.dll
+C:\Users\jotha\source\repos\000_Fundamentos\022_Threads_P2_OOP\022_Threads_P2_OOP\obj\Debug\net8.0\refint\022_Threads_P2_OOP.dll
+C:\Users\jotha\source\repos\000_Fundamentos\022_Threads_P2_OOP\022_Threads_P2_OOP\obj\Debug\net8.0\022_Threads_P2_OOP.pdb
+C:\Users\jotha\source\repos\000_Fundamentos\022_Threads_P2_OOP\022_Threads_P2_OOP\obj\Debug\net8.0\022_Threads_P2_OOP.genruntimeconfig.cache
+C:\Users\jotha\source\repos\000_Fundamentos\022_Threads_P2_OOP\022_Threads_P2_OOP\obj\Debug\net8.0\ref\022_Threads_P2_OOP.dll
